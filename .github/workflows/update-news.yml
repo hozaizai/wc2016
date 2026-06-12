@@ -22,7 +22,7 @@ jobs:
         run: curl -fsSL https://iet2.hket.com/feature/worldcup2026/data-article-news.json -o data-article-news.json
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4 lxml
 
       - name: Run script
         run: python update-news-by-date.py

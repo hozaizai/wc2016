@@ -2,7 +2,8 @@ name: Update News JSON
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '30 9 * * *'    # 香港 17:30
+    - cron: '0 4 * * *'     # 香港 12:00
   workflow_dispatch:
 
 jobs:

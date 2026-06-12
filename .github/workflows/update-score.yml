@@ -1,0 +1,35 @@
+name: Update Score Wiki
+
+on:
+  schedule:
+    - cron: '0 22 * * *'    # 香港 06:00
+    - cron: '0 4 * * *'     # 香港 12:00
+    - cron: '0 6 * * *'     # 香港 14:00
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run script
+        run: python update-score-wiki.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update score wiki $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

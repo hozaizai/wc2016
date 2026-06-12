@@ -1,0 +1,33 @@
+name: Update News JSON
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'   # 香港 08:00 同 20:00
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download source JSON
+        run: curl -fsSL https://iet2.hket.com/feature/worldcup2026/data-article-news.json -o data-article-news.json
+
+      - name: Run script
+        run: python update-news-by-date.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update news JSON $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

@@ -2,7 +2,7 @@ name: Update News JSON
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'   # 香港 08:00 同 20:00
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,9 @@ jobs:
 
       - name: Download source JSON
         run: curl -fsSL https://iet2.hket.com/feature/worldcup2026/data-article-news.json -o data-article-news.json
+
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Run script
         run: python update-news-by-date.py

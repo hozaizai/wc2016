@@ -86,7 +86,7 @@
     {
         "group": "Group B",
         "rank": 3,
-        "team_name": "Qatar",
+        "team_name": "Switzerland",
         "played": 0,
         "win": 0,
         "draw": 0,
@@ -100,7 +100,7 @@
     {
         "group": "Group B",
         "rank": 4,
-        "team_name": "Switzerland",
+        "team_name": "Qatar",
         "played": 0,
         "win": 0,
         "draw": 0,
@@ -184,7 +184,7 @@
     {
         "group": "Group D",
         "rank": 2,
-        "team_name": "Australia",
+        "team_name": "Turkey",
         "played": 0,
         "win": 0,
         "draw": 0,
@@ -198,7 +198,7 @@
     {
         "group": "Group D",
         "rank": 3,
-        "team_name": "Turkey",
+        "team_name": "Australia",
         "played": 0,
         "win": 0,
         "draw": 0,

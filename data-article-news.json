@@ -1,21 +1,75 @@
 var focusData = [
     {
-        "title": "世界盃2026｜蘭桂坊酒吧客流量未及往屆旺場　放棄早市但延長晚上營業時間",
-        "url": "https://topick.hket.com/article/4145991/?r=worldcup2026",
+        "title": "足球小將｜《隊長小翼》登陸MegaBox設5大打卡位　5米高巨型戴志偉對決小志強＋南葛隊獨家精品",
+        "url": "https://topick.hket.com/article/4141639/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026︱營養師推介20款宵夜零食　低脂脆片＋無糖調酒宵夜組合 睇波食住瘦",
-        "url": "https://topick.hket.com/article/4145788/?r=worldcup2026",
+        "title": "【世界盃2026】特朗普於美國隊首戰前曾致電教練表示支持　普捷天奴：目標不僅於D組出線",
+        "url": "https://inews.hket.com/article/4146176/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜會德豐黃光耀睇好德國隊  天才球星冒起大打團體足球",
-        "url": "https://ps.hket.com/article/4145923/?r=worldcup2026",
+        "title": "世界盃2026｜apm巨型怪物足球場登場  6米LED巨幕睇盡104場足球大戰",
+        "url": "https://ps.hket.com/article/4145719/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "足球小將｜《隊長小翼》登陸MegaBox設5大打卡位　5米高巨型戴志偉對決小志強＋南葛隊獨家精品",
+        "articletime": "2026/06/13",
+        "articleurl": "https://topick.hket.com/article/4141639/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4140000/4141639/shopping_play_thumb1_600.png"
+    },
+    {
+        "articletitle": "【世界盃2026】特朗普於美國隊首戰前曾致電教練表示支持　普捷天奴：目標不僅於D組出線",
+        "articletime": "2026/06/13",
+        "articleurl": "https://inews.hket.com/article/4146176/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146176/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜apm巨型怪物足球場登場  6米LED巨幕睇盡104場足球大戰",
+        "articletime": "2026/06/13",
+        "articleurl": "https://ps.hket.com/article/4145719/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4145719/WhatsAppImage2026-06-12at125442_1_600.jpeg"
+    },
+    {
+        "articletitle": "【世界盃2026】加拿大追和波斯尼亞1：1",
+        "articletime": "2026/06/13",
+        "articleurl": "https://inews.hket.com/article/4146163/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146163/afp_b6xd8q3_1_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】巴西隊靠智能背心大數據布陣！6.23首戰摩洛哥驗收",
+        "articletime": "2026/06/13",
+        "articleurl": "https://inews.hket.com/article/4146090/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146090/2026-06-12222605_1_600.png"
+    },
+    {
+        "articletitle": "巴西登場 硬撼上屆殿軍摩洛哥",
+        "articletime": "2026/06/13",
+        "articleurl": "https://paper.hket.com/article/4146102/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146102/HKET_20260613_A11_13HH002_A_480x270.jpg"
+    },
+    {
+        "articletitle": "德軍迎新丁庫拉索 荷日戰成焦點",
+        "articletime": "2026/06/13",
+        "articleurl": "https://paper.hket.com/article/4146101/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146101/HKET_20260613_A11_13HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜啟德零售館直播30場世界盃日間賽事　商戶推餐飲零售優惠",
+        "articletime": "2026/06/12",
+        "articleurl": "https://topick.hket.com/article/4146088/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146088/WORLDCUP_20260612_NNNN_600.png"
+    },
+    {
+        "articletitle": "世界盃直播2026｜全港世界盃免費睇波商場推介　3大商場播足104場賽事【不斷更新】",
+        "articletime": "2026/06/12",
+        "articleurl": "https://topick.hket.com/article/4143686/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4140000/4143686/worldcup_thumb_20260612_600.png"
+    },
     {
         "articletitle": "世界盃2026｜蘭桂坊酒吧客流量未及往屆旺場　放棄早市但延長晚上營業時間",
         "articletime": "2026/06/12",

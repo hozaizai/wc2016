@@ -20,7 +20,7 @@ jobs:
           python-version: '3.12'
 
       - name: Download source JSON
-        run: curl -fsSL https://iet2.hket.com/feature/worldcup2026/data-article-news.json -o data-article-news.json
+        run: curl -fsSL https://iet2.hket.com/feature/worldcup2026/data-article-news.json -o data-article-news-g.json
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml

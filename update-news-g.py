@@ -94,7 +94,7 @@ def fetch_hket_news():
 # ==========================================
 # 2. 檔案更新功能：比對並寫入 JSON 檔案
 # ==========================================
-def update_json_file(scraped_data, filename="data-article-news.json"):
+def update_json_file(scraped_data, filename="data-article-news-g.json"):
     if not scraped_data:
         print("沒有抓取到任何資料，取消更新。")
         return

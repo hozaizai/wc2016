@@ -2,9 +2,10 @@ name: Update Score Wiki
 
 on:
   schedule:
-    - cron: '0 22 * * *'    # 香港 06:00
-    - cron: '0 4 * * *'     # 香港 12:00
-    - cron: '0 6 * * *'     # 香港 14:00
+    - cron: '30 22 * * *'   # 香港 06:30
+    - cron: '30 2 * * *'    # 香港 10:30
+    - cron: '0 5 * * *'     # 香港 13:00
+    - cron: '30 6 * * *'    # 香港 14:30
   workflow_dispatch:
 
 jobs:

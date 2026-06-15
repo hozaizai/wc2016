@@ -1,21 +1,63 @@
 var focusData = [
     {
-        "title": "世界盃2026｜啟德零售館直播賽事吸引市民駐足觀賽　商戶冀後段比賽氛升溫",
-        "url": "https://topick.hket.com/article/4146252/?r=worldcup2026",
+        "title": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
+        "url": "https://inews.hket.com/article/4146717/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】澳洲門神上身 2：0贏土耳其",
-        "url": "https://inews.hket.com/article/4146255/?r=worldcup2026",
+        "title": "【世界盃2026】高盛5萬次模型模擬後更新　西班牙24.7%奪冠率居首　東道主美國成最大黑馬",
+        "url": "https://inews.hket.com/article/4146594/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】海地輸蘇格蘭1球 15起腳僅兩中龍",
-        "url": "https://inews.hket.com/article/4146244/?r=worldcup2026",
+        "title": "【世界盃2026】小川航基頂贏雲迪克 日本超熱血完場前追和荷蘭2：2",
+        "url": "https://inews.hket.com/article/4146409/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
+        "articletime": "2026/06/15",
+        "articleurl": "https://inews.hket.com/article/4146717/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146717/2026-06-15T023338Z_1797863049_UP1EM6F0741UN_RTRMADP_5_SOCCER-WORLDCUP-SWE-TUN_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】高盛5萬次模型模擬後更新　西班牙24.7%奪冠率居首　東道主美國成最大黑馬",
+        "articletime": "2026/06/15",
+        "articleurl": "https://inews.hket.com/article/4146594/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146594/150626_169_iet_patrick_gs_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】小川航基頂贏雲迪克 日本超熱血完場前追和荷蘭2：2",
+        "articletime": "2026/06/15",
+        "articleurl": "https://inews.hket.com/article/4146409/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146409/2026-06-14T215012Z_1138773448_UP1EM6E1ONMD9_RTRMADP_5_SOCCER-WORLDCUP-NLD-JPN_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】德國7球大勝 庫拉索入1球贏掌聲",
+        "articletime": "2026/06/15",
+        "articleurl": "https://inews.hket.com/article/4146407/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146407/2026-06-14T172706Z_1553660552_UP1EM6E1CH5LW_RTRMADP_5_SOCCER-WORLDCUP-GER-CUW_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/15",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "西班牙超班 勢破世盃新丁佛得角",
+        "articletime": "2026/06/15",
+        "articleurl": "https://paper.hket.com/article/4146347/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146347/HKET_20260615_A14_15HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "伊朗「紐」盡六壬 冀美國場上揚威",
+        "articletime": "2026/06/15",
+        "articleurl": "https://paper.hket.com/article/4146346/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146346/HKET_20260615_A14_15HH004__480x270.jpg"
+    },
     {
         "articletitle": "世界盃2026｜啟德零售館直播賽事吸引市民駐足觀賽　商戶冀後段比賽氛升溫",
         "articletime": "2026/06/14",
@@ -45,12 +87,6 @@ var data = [
         "articletime": "2026/06/14",
         "articleurl": "https://inews.hket.com/article/4146235/?r=worldcup2026",
         "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146235/2026-06-13T221244Z_305461930_UP1EM6D1PP5BG_RTRMADP_5_SOCCER-WORLDCUP-QAT-SWI_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "足球小將｜《隊長小翼》登陸MegaBox設5大打卡位　5米高巨型戴志偉對決小志強＋南葛隊獨家精品",
@@ -93,6 +129,18 @@ var data = [
         "articletime": "2026/06/13",
         "articleurl": "https://paper.hket.com/article/4146101/?r=worldcup2026",
         "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146101/HKET_20260613_A11_13HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "《世界盃2026》重頭戲摩洛哥挑戰巴西 夏基美 對戰小雲尼",
+        "articletime": "2026/06/13",
+        "articleurl": "https://paper.hket.com/article/4145902/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4145902/HKET_20260613_C06_13EA001__480x270.jpg"
+    },
+    {
+        "articletitle": "10款可口可樂 FIFA世界盃26限定版",
+        "articletime": "2026/06/13",
+        "articleurl": "https://paper.hket.com/article/4145903/?r=worldcup2026",
+        "articleimage": "images/default.jpg"
     },
     {
         "articletitle": "世界盃2026｜啟德零售館直播30場世界盃日間賽事　商戶推餐飲零售優惠",
@@ -507,53 +555,5 @@ var data = [
         "articletime": "2026/05/11",
         "articleurl": "https://topick.hket.com/article/4126965/?r=worldcup2026",
         "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4126965/football20260511_thumb__600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】中國世界盃轉播權懸而未決　國際足協與CCTV叫價存在重大差距　內地人會否熬夜睇波？",
-        "articletime": "2026/05/09",
-        "articleurl": "https://inews.hket.com/article/4126000/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4126000/FireShotCapture3981-fifaworldcup2026-Google-wwwgooglecom_1_600.jpg"
-    },
-    {
-        "articletitle": "特朗普｜批評世界盃門票價格離譜：我都不會買",
-        "articletime": "2026/05/08",
-        "articleurl": "https://inews.hket.com/article/4126210/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4126210/080526_169_iet_Wan__600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】美銀調查法國可奪世界盃　馬會賠率僅次熱",
-        "articletime": "2026/05/07",
-        "articleurl": "https://inews.hket.com/article/4125283/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4125283/070526_169_iet_fish_AI_v1_600.jpg"
-    },
-    {
-        "articletitle": "FIFA高管計劃訪華  世界盃內地轉播權談判或迎轉機",
-        "articletime": "2026/05/07",
-        "articleurl": "https://china.hket.com/article/4125316/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4125316/070526_169_iet_YAN_FIFA_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】Now TV直播全部104場！　Edan、Ivy So任大使齊撐美斯：期待球王再創佳績",
-        "articletime": "2026/05/04",
-        "articleurl": "https://inews.hket.com/article/4123434/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4120000/4123434/040526_169_iet_patrick_now_600.jpg"
-    },
-    {
-        "articletitle": "世界盃｜伊朗無緣參賽？ 特朗普特使倡意大利頂替",
-        "articletime": "2026/04/23",
-        "articleurl": "https://inews.hket.com/article/4118389/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4115000/4118389/230426_169_iet_Wan__600.jpg"
-    },
-    {
-        "articletitle": "世界盃｜伊朗與FIFA商討 部分賽事從美國移師墨西哥",
-        "articletime": "2026/03/17",
-        "articleurl": "https://inews.hket.com/article/4099982/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4095000/4099982/170326_FIFA_600.jpg"
-    },
-    {
-        "articletitle": "FIFA世界盃2026｜NowTV及ViuTV奪香港獨家播映權　指定客戶享早鳥優惠：380元看盡104場足球賽",
-        "articletime": "2026/02/25",
-        "articleurl": "https://inews.hket.com/article/4088687/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4085000/4088687/250226_169_iet_fish_2026_v1_600.jpg"
     }
 ];

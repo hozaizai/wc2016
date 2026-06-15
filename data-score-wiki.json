@@ -37,8 +37,8 @@
         "lose": 1,
         "goals_for": 1,
         "goals_against": 2,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -1,
+        "goals_diff_display": "-1",
         "points": 0
     },
     {
@@ -51,8 +51,8 @@
         "lose": 1,
         "goals_for": 0,
         "goals_against": 2,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -2,
+        "goals_diff_display": "-2",
         "points": 0
     },
     {
@@ -67,7 +67,7 @@
         "goals_against": 1,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group B",
@@ -81,7 +81,7 @@
         "goals_against": 1,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group B",
@@ -95,7 +95,7 @@
         "goals_against": 1,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group B",
@@ -109,7 +109,7 @@
         "goals_against": 1,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group C",
@@ -137,7 +137,7 @@
         "goals_against": 1,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group C",
@@ -151,7 +151,7 @@
         "goals_against": 1,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group C",
@@ -163,8 +163,8 @@
         "lose": 1,
         "goals_for": 0,
         "goals_against": 1,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -1,
+        "goals_diff_display": "-1",
         "points": 0
     },
     {
@@ -205,8 +205,8 @@
         "lose": 1,
         "goals_for": 0,
         "goals_against": 2,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -2,
+        "goals_diff_display": "-2",
         "points": 0
     },
     {
@@ -219,8 +219,8 @@
         "lose": 1,
         "goals_for": 1,
         "goals_against": 4,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -3,
+        "goals_diff_display": "-3",
         "points": 0
     },
     {
@@ -261,8 +261,8 @@
         "lose": 1,
         "goals_for": 0,
         "goals_against": 1,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -1,
+        "goals_diff_display": "-1",
         "points": 0
     },
     {
@@ -275,8 +275,8 @@
         "lose": 1,
         "goals_for": 1,
         "goals_against": 7,
-        "goals_diff": 0,
-        "goals_diff_display": "0",
+        "goals_diff": -6,
+        "goals_diff_display": "-6",
         "points": 0
     },
     {
@@ -291,7 +291,7 @@
         "goals_against": 2,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group F",
@@ -305,7 +305,7 @@
         "goals_against": 2,
         "goals_diff": 0,
         "goals_diff_display": "0",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group F",

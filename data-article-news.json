@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "【世界盃2026】一文看清世界盃賽程時間表",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "世界盃2026｜可口可樂10款限定版精品上架　設GOAL聲打氣站/免費換匙扣零食碗",
+        "url": "https://topick.hket.com/article/4146512/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
         "url": "https://inews.hket.com/article/4146717/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】高盛5萬次模型模擬後更新　西班牙24.7%奪冠率居首　東道主美國成最大黑馬",
-        "url": "https://inews.hket.com/article/4146594/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】小川航基頂贏雲迪克 日本超熱血完場前追和荷蘭2：2",
-        "url": "https://inews.hket.com/article/4146409/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/15",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜可口可樂10款限定版精品上架　設GOAL聲打氣站/免費換匙扣零食碗",
+        "articletime": "2026/06/15",
+        "articleurl": "https://topick.hket.com/article/4146512/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146512/ScreenShot2026-06-13at10617AM_1_600.png"
+    },
     {
         "articletitle": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
         "articletime": "2026/06/15",
@@ -39,12 +51,6 @@ var data = [
         "articletime": "2026/06/15",
         "articleurl": "https://inews.hket.com/article/4146407/?r=worldcup2026",
         "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146407/2026-06-14T172706Z_1553660552_UP1EM6E1CH5LW_RTRMADP_5_SOCCER-WORLDCUP-GER-CUW_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "西班牙超班 勢破世盃新丁佛得角",
@@ -549,11 +555,5 @@ var data = [
         "articletime": "2026/05/12",
         "articleurl": "https://inews.hket.com/article/4127602/?r=worldcup2026",
         "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4127602/120526_169_iet_patrick_Budweiser_600.jpg"
-    },
-    {
-        "articletitle": "有政戲online - 世界盃非法外圍猖獗　議員籲研需否封「預測市場」網站",
-        "articletime": "2026/05/11",
-        "articleurl": "https://topick.hket.com/article/4126965/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4126965/football20260511_thumb__600.png"
     }
 ];

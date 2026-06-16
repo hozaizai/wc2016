@@ -1,21 +1,63 @@
 var focusData = [
     {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "title": "外圍波｜世界盃效應非法賭博趨熾　警方三日拉150人　涉及賭款逾3.2億元",
+        "url": "https://topick.hket.com/article/4147433/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜可口可樂10款限定版精品上架　設GOAL聲打氣站/免費換匙扣零食碗",
-        "url": "https://topick.hket.com/article/4146512/?r=worldcup2026",
+        "title": "【世界盃2026】伊朗迫和紐西蘭 當面向恩芬天奴投訴美國不公平對待",
+        "url": "https://inews.hket.com/article/4147424/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
-        "url": "https://inews.hket.com/article/4146717/?r=worldcup2026",
+        "title": "【世界盃2026】西班牙對佛得角爆大冷迫和收場　Polymarket有帳戶輸近100萬美元",
+        "url": "https://inews.hket.com/article/4147207/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "外圍波｜世界盃效應非法賭博趨熾　警方三日拉150人　涉及賭款逾3.2億元",
+        "articletime": "2026/06/16",
+        "articleurl": "https://topick.hket.com/article/4147433/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147433/cwln20260612014_1024_1_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】伊朗迫和紐西蘭 當面向恩芬天奴投訴美國不公平對待",
+        "articletime": "2026/06/16",
+        "articleurl": "https://inews.hket.com/article/4147424/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147424/451c6694-566e-4f20-aebf-063b6fd7f77a_1_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】西班牙對佛得角爆大冷迫和收場　Polymarket有帳戶輸近100萬美元",
+        "articletime": "2026/06/16",
+        "articleurl": "https://inews.hket.com/article/4147207/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147207/160626_169_iet_fish_100_v1_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】比利時迫和埃及1：1",
+        "articletime": "2026/06/16",
+        "articleurl": "https://inews.hket.com/article/4147080/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147080/2026-06-15T192320Z_533422621_UP1EM6F1HUUFO_RTRMADP_5_SOCCER-WORLDCUP-BEL-EGY_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】西班牙爆冷和波 佛得角龍門禾仙拿成英雄",
+        "articletime": "2026/06/16",
+        "articleurl": "https://inews.hket.com/article/4147066/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147066/2026-06-15T164737Z_1423765594_UP1EM6F1ANC4W_RTRMADP_5_SOCCER-WORLDCUP-ESP-CPV_1_600.JPG"
+    },
+    {
+        "articletitle": "大熱法國出「塞」 華麗陣容火力足",
+        "articletime": "2026/06/16",
+        "articleurl": "https://paper.hket.com/article/4147030/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147030/HKET_20260616_A11_16HH002_A_480x270.jpg"
+    },
+    {
+        "articletitle": "美斯6度戰世盃 率阿根廷爭衛冕",
+        "articletime": "2026/06/16",
+        "articleurl": "https://paper.hket.com/article/4147029/?r=worldcup2026",
+        "articleimage": "https://static04.hket.com/res/v3/image/content/4145000/4147029/HKET_20260616_A11_16HH001__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
         "articletime": "2026/06/15",
@@ -513,47 +555,5 @@ var data = [
         "articletime": "2026/05/17",
         "articleurl": "https://inews.hket.com/article/4130071/?r=worldcup2026",
         "articleimage": "https://static04.hket.com/res/v3/image/content/4130000/4130071/170526_169_iet_Dominic_FIFA_600.jpg"
-    },
-    {
-        "articletitle": "世界盃決賽周前奏 阿根廷目標 蟬聯冠軍 球王美斯或成爭勝關鍵",
-        "articletime": "2026/05/16",
-        "articleurl": "https://paper.hket.com/article/4129734/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4129734/HKET_20260516_C04_16EA001__480x270.jpg"
-    },
-    {
-        "articletitle": "【FIFA世界盃2026】央視獲世界盃內地播放版權　傳費用6000萬美元",
-        "articletime": "2026/05/15",
-        "articleurl": "https://inews.hket.com/article/4129811/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4129811/150526_169_iet_patrick_FIFA1_600.jpg"
-    },
-    {
-        "articletitle": "央視與國際足聯達合作 美加墨世界盃版權費傳6000萬美元",
-        "articletime": "2026/05/15",
-        "articleurl": "https://china.hket.com/article/4129582/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4129582/150526_169_iet_fish_2026_v1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】引入預測市場 專家料投注額高達156億",
-        "articletime": "2026/05/14",
-        "articleurl": "https://inews.hket.com/article/4128986/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4128986/1405_WorldCup_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】美放寬入境簽證要求 持門票球迷免繳保證金",
-        "articletime": "2026/05/14",
-        "articleurl": "https://inews.hket.com/article/4128937/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4128937/140526_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】BTS 將與Madonna、Shakira演出世界盃決賽中場秀　Hybe股價升逾7%",
-        "articletime": "2026/05/14",
-        "articleurl": "https://inews.hket.com/article/4128953/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4128953/2026-05-14160618_1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】6月開踢！百威Budweiser聯同夏蘭特、高普啟動世界盃盛典（附完整分組名單）",
-        "articletime": "2026/05/12",
-        "articleurl": "https://inews.hket.com/article/4127602/?r=worldcup2026",
-        "articleimage": "https://static04.hket.com/res/v3/image/content/4125000/4127602/120526_169_iet_patrick_Budweiser_600.jpg"
     }
 ];

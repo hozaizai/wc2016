@@ -1,5 +1,10 @@
 var focusData = [
     {
+        "title": "【世界盃2026】佛得角門將人氣爆升 美國務院助母處理簽證",
+        "url": "https://inews.hket.com/article/4148228/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】阿根廷新陣式 美斯3球淨勝阿爾及利亞",
         "url": "https://inews.hket.com/article/4148080/?r=worldcup2026",
         "tag": "焦點"
@@ -8,14 +13,15 @@ var focusData = [
         "title": "世界盃2026︱41歲C朗世界盃最後一戰！傳奇球星「一日六餐」菜單全公開　連續吃20年體脂維持7%",
         "url": "https://topick.hket.com/article/4147902/?r=worldcup2026",
         "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】法國隊「慢熱」贏塞內加爾3：1 麥巴比轟兩球",
-        "url": "https://inews.hket.com/article/4147757/?r=worldcup2026",
-        "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】佛得角門將人氣爆升 美國務院助母處理簽證",
+        "articletime": "2026/06/17",
+        "articleurl": "https://inews.hket.com/article/4148228/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148228/b82ca686-8764-4bad-9981-b323a5ffb6f2_600.jpg"
+    },
     {
         "articletitle": "【世界盃2026】阿根廷新陣式 美斯3球淨勝阿爾及利亞",
         "articletime": "2026/06/17",
@@ -549,11 +555,5 @@ var data = [
         "articletime": "2026/05/26",
         "articleurl": "https://ps.hket.com/article/4134032/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4134032/260526_916_iet_eros__600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026+優惠】759阿信屋推最長單據挑戰賽！有機會贏FIFA世界盃4K賽事通行證、Netflix禮品卡",
-        "articletime": "2026/05/25",
-        "articleurl": "https://inews.hket.com/article/4133796/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4133796/260526_169_iet_patrick_759_600.jpg"
     }
 ];

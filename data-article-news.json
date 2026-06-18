@@ -1,21 +1,51 @@
 var focusData = [
     {
-        "title": "【世界盃2026】佛得角門將人氣爆升 美國務院助母處理簽證",
-        "url": "https://inews.hket.com/article/4148228/?r=worldcup2026",
+        "title": "【世界盃2026】剛果零的突破1：1摸和葡萄牙　C朗無入波",
+        "url": "https://inews.hket.com/article/4148438/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】阿根廷新陣式 美斯3球淨勝阿爾及利亞",
-        "url": "https://inews.hket.com/article/4148080/?r=worldcup2026",
+        "title": "【世界盃2026】一文看清世界盃賽程時間表",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026︱41歲C朗世界盃最後一戰！傳奇球星「一日六餐」菜單全公開　連續吃20年體脂維持7%",
-        "url": "https://topick.hket.com/article/4147902/?r=worldcup2026",
+        "title": "捷克「非」勝不可 南韓勢奏凱「哥」",
+        "url": "https://paper.hket.com/article/4148395/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】剛果零的突破1：1摸和葡萄牙　C朗無入波",
+        "articletime": "2026/06/18",
+        "articleurl": "https://inews.hket.com/article/4148438/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148438/2026-06-17T180831Z_1956437467_UP1EM6H1EE5QG_RTRMADP_5_SOCCER-WORLDCUP-POR-COD_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/18",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "捷克「非」勝不可 南韓勢奏凱「哥」",
+        "articletime": "2026/06/18",
+        "articleurl": "https://paper.hket.com/article/4148395/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148395/HKET_20260618_A19_18HH002__480x270.jpg"
+    },
+    {
+        "articletitle": "B組混戰 加拿大卡塔爾爭勝創歷史",
+        "articletime": "2026/06/18",
+        "articleurl": "https://paper.hket.com/article/4148394/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148394/HKET_20260618_A19_18HH003_A_480x270.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】美斯「大三元」兼破C朗國際賽入球紀錄　葡萄牙對剛果首戰能否助C朗圓夢？",
+        "articletime": "2026/06/17",
+        "articleurl": "https://inews.hket.com/article/4148358/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148358/FireShotCapture4078-CristianoRonaldoreuters-Google-wwwgooglecom_1_600.jpg"
+    },
     {
         "articletitle": "【世界盃2026】佛得角門將人氣爆升 美國務院助母處理簽證",
         "articletime": "2026/06/17",
@@ -51,12 +81,6 @@ var data = [
         "articletime": "2026/06/17",
         "articleurl": "https://paper.hket.com/article/4147715/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147715/HKET_20260617_A15_17HH002__480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/16",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "【世界盃2026】半場急換走紐尼斯 烏拉圭末段終追和沙特",
@@ -531,29 +555,5 @@ var data = [
         "articletime": "2026/06/01",
         "articleurl": "https://inews.hket.com/article/4137186/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4135000/4137186/010626_169_iet_patrick__600.jpg"
-    },
-    {
-        "articletitle": "小紅書取得美加墨世界杯轉播權 冀借賽事衝擊2億日活",
-        "articletime": "2026/05/27",
-        "articleurl": "https://china.hket.com/article/4134727/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4134727/270526_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃｜安全軟件公司警告　大量偽冒FIFA釣魚網湧現",
-        "articletime": "2026/05/26",
-        "articleurl": "https://inews.hket.com/article/4134311/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4134311/260526_169_iet_Eris__600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】墨西哥允伊朗隊進駐 美拒接待",
-        "articletime": "2026/05/26",
-        "articleurl": "https://inews.hket.com/article/4134077/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4134077/260526_45_iet_eros__600.jpg"
-    },
-    {
-        "articletitle": "世界盃熱潮將至 帶動酒吧連環擴充",
-        "articletime": "2026/05/26",
-        "articleurl": "https://ps.hket.com/article/4134032/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4134032/260526_916_iet_eros__600.jpg"
     }
 ];

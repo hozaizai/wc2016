@@ -1,6 +1,11 @@
 {
     "focusData": [
         {
+            "title": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
+            "url": "https://topick.hket.com/article/4148626/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
             "title": "【世界盃2026】剛果零的突破1：1摸和葡萄牙　C朗無入波",
             "url": "https://inews.hket.com/article/4148438/?r=worldcup2026",
             "tag": "焦點"
@@ -9,14 +14,15 @@
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
-        },
-        {
-            "title": "捷克「非」勝不可 南韓勢奏凱「哥」",
-            "url": "https://paper.hket.com/article/4148395/?r=worldcup2026",
-            "tag": "焦點"
         }
     ],
     "data": [
+        {
+            "articletitle": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
+            "articletime": "2026/06/18",
+            "articleurl": "https://topick.hket.com/article/4148626/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148626/Fortress_Dope_07_1_600.jpg"
+        },
         {
             "articletitle": "【世界盃2026】剛果零的突破1：1摸和葡萄牙　C朗無入波",
             "articletime": "2026/06/18",
@@ -184,18 +190,6 @@
             "articletime": "2026/06/14",
             "articleurl": "https://inews.hket.com/article/4146255/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146255/2281489504_1_600.jpg"
-        },
-        {
-            "articletitle": "【世界盃2026】海地輸蘇格蘭1球 15起腳僅兩中龍",
-            "articletime": "2026/06/14",
-            "articleurl": "https://inews.hket.com/article/4146244/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146244/2026-06-14T013502Z_2093777256_UP1EM6E04EDRT_RTRMADP_5_SOCCER-WORLDCUP-HTI-SCO_1_600.JPG"
-        },
-        {
-            "articletitle": "【世界盃2026】巴西摩洛哥對攻 1：1完場",
-            "articletime": "2026/06/14",
-            "articleurl": "https://inews.hket.com/article/4146236/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146236/2026-06-13T234249Z_426499358_UP1EM6D1TVBIV_RTRMADP_5_SOCCER-WORLDCUP-BRA-MAR_1_600.JPG"
         }
     ]
 }

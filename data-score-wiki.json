@@ -58,7 +58,7 @@
     {
         "group": "Group B",
         "rank": 1,
-        "team_name": "Canada",
+        "team_name": "Canada(H, X)",
         "played": 2,
         "win": 1,
         "draw": 1,
@@ -72,7 +72,7 @@
     {
         "group": "Group B",
         "rank": 2,
-        "team_name": "Switzerland",
+        "team_name": "Switzerland(X)",
         "played": 2,
         "win": 1,
         "draw": 1,

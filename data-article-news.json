@@ -549,11 +549,5 @@ var data = [
         "articletime": "2026/06/06",
         "articleurl": "https://paper.hket.com/article/4142386/?r=worldcup2026",
         "articleimage": "images/default.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜啟德三道直播精華 崇光百貨為爸爸送上兩大男人浪漫 銅鑼灣店及啟德店推6月慶典",
-        "articletime": "2026/06/05",
-        "articleurl": "https://ps.hket.com/article/4142119/?r=worldcup2026",
-        "articleimage": "images/default.jpg"
     }
 ];

@@ -1,21 +1,45 @@
 var focusData = [
     {
-        "title": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
-        "url": "https://topick.hket.com/article/4148626/?r=worldcup2026",
+        "title": "手遊社媒變非法外圍招客溫床　莊家瞄準青少年　引誘成癮抽身難",
+        "url": "https://topick.hket.com/article/4148962/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】剛果零的突破1：1摸和葡萄牙　C朗無入波",
-        "url": "https://inews.hket.com/article/4148438/?r=worldcup2026",
+        "title": "美國主動出擊 欲擒袋鼠提早出綫",
+        "url": "https://paper.hket.com/article/4149059/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "title": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
+        "url": "https://paper.hket.com/article/4149060/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "手遊社媒變非法外圍招客溫床　莊家瞄準青少年　引誘成癮抽身難",
+        "articletime": "2026/06/19",
+        "articleurl": "https://topick.hket.com/article/4148962/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148962/4148770_HKJC_gameoutside_adv_1200_600.jpg"
+    },
+    {
+        "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
+        "articletime": "2026/06/19",
+        "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
+    },
+    {
+        "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
+        "articletime": "2026/06/19",
+        "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/18",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
     {
         "articletitle": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
         "articletime": "2026/06/18",
@@ -27,12 +51,6 @@ var data = [
         "articletime": "2026/06/18",
         "articleurl": "https://inews.hket.com/article/4148438/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148438/2026-06-17T180831Z_1956437467_UP1EM6H1EE5QG_RTRMADP_5_SOCCER-WORLDCUP-POR-COD_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/18",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "捷克「非」勝不可 南韓勢奏凱「哥」",
@@ -537,17 +555,5 @@ var data = [
         "articletime": "2026/06/05",
         "articleurl": "https://ps.hket.com/article/4142119/?r=worldcup2026",
         "articleimage": "images/default.jpg"
-    },
-    {
-        "articletitle": "黑金鏈串連資助嚴重犯罪活動　外圍賭博成全球第三大經濟體",
-        "articletime": "2026/06/05",
-        "articleurl": "https://topick.hket.com/article/4141912/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4141912/4141406_HKJC_gameoutside_adv_12001_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026| 在港出發坐郵輪有世界盃直播睇　船上加設足球問答等遊戲",
-        "articletime": "2026/06/04",
-        "articleurl": "https://topick.hket.com/article/4141705/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4141705/ptwn20250627005_1024_1_600.jpg"
     }
 ];

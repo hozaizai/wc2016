@@ -1,5 +1,10 @@
 var focusData = [
     {
+        "title": "【世界盃2026】一文看清世界盃賽程時間表",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】巴拉圭1:0土耳其！64秒最快入球送對手出局 巴拉圭兵「掩嘴說話」紅牌創歷史",
         "url": "https://inews.hket.com/article/4149400/?r=worldcup2026",
         "tag": "焦點"
@@ -8,14 +13,15 @@ var focusData = [
         "title": "【世界盃2026】美國兩連勝 2：0贏澳洲",
         "url": "https://inews.hket.com/article/4149371/?r=worldcup2026",
         "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/20",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
     {
         "articletitle": "【世界盃2026】巴拉圭1:0土耳其！64秒最快入球送對手出局 巴拉圭兵「掩嘴說話」紅牌創歷史",
         "articletime": "2026/06/20",
@@ -27,12 +33,6 @@ var data = [
         "articletime": "2026/06/20",
         "articleurl": "https://inews.hket.com/article/4149371/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149371/2282404139_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/20",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "德軍硬撼非洲象 迎真正考驗",
@@ -465,95 +465,5 @@ var data = [
         "articletime": "2026/06/10",
         "articleurl": "https://inews.hket.com/article/4144645/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144645/0610_tip_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】返工唔專心？花旗：世界盃或分散交易員注意力　賽事期間料美歐債市波動減弱",
-        "articletime": "2026/06/10",
-        "articleurl": "https://inews.hket.com/article/4143851/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143851/100626_169_iet_patrick__600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】魔人夏蘭特代言王老吉　改編《Haaland Song》神曲勁洗腦　過去一年勁袋8000萬美元",
-        "articletime": "2026/06/10",
-        "articleurl": "https://inews.hket.com/article/4144445/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144445/100626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜證券商推3大開戶優惠！新開戶送20股盈富基金　全數回贈轉倉費",
-        "articletime": "2026/06/10",
-        "articleurl": "https://wealth.hket.com/article/4144353/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144353/76c3bab0c9a34e9eb0ca8a6908c36642_1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜MegaBox聯乘《足球小將》辦足球祭　5米高大空翼對決日向小次郎　消費即換南葛隊精品",
-        "articletime": "2026/06/10",
-        "articleurl": "https://wealth.hket.com/article/4144327/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144327/51_1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜麥當勞送五大球星珍藏杯　$49嘆18件麥樂雞餐+期間限定醬",
-        "articletime": "2026/06/10",
-        "articleurl": "https://wealth.hket.com/article/4144232/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144232/bom3jwtvm8_1_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜信置田兆源支持法國3度捧盃  大軍陣容強勁經驗豐富",
-        "articletime": "2026/06/10",
-        "articleurl": "https://ps.hket.com/article/4143982/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143982/090626_169_iet_YAN_3_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】美國酒店預訂率遜墨加 僅一城市達4成",
-        "articletime": "2026/06/09",
-        "articleurl": "https://inews.hket.com/article/4143935/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143935/0609_hotel_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026︱TELLER自爆為保肌肉少飲酒　Jacky Fan拍MV慘被「葵芳」蔡蕙琪請食檸檬",
-        "articletime": "2026/06/09",
-        "articleurl": "https://topick.hket.com/article/4143854/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143854/worldcup_20260609_thumb__600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜長實郭子威睇好法國封王  陣容星光熠熠贏面百分百",
-        "articletime": "2026/06/09",
-        "articleurl": "https://ps.hket.com/article/4143782/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143782/090626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜馬會推「全城足球主場」　23投注站提早開放直播球賽【附詳情】",
-        "articletime": "2026/06/09",
-        "articleurl": "https://news.hket.com/article/4143711/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143711/WhatsAppImage2026-06-09at115733_1_600.jpeg"
-    },
-    {
-        "articletitle": "【世界盃2026】高盛：世界盃短暫提振美國就業與消費　6月非農料增4萬職位",
-        "articletime": "2026/06/09",
-        "articleurl": "https://inews.hket.com/article/4143567/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143567/090626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "麥當勞世界盃優惠｜$49歎18件麥樂雞配4款期間限定醬　免費換明星珍藏杯+黑松露紫菜ShakeShake粉回歸",
-        "articletime": "2026/06/09",
-        "articleurl": "https://topick.hket.com/article/4143238/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143238/mcdonald_thumb_20262609_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜新地雷霆撐巴西六度捧盃  睇好教練有料到",
-        "articletime": "2026/06/08",
-        "articleurl": "https://ps.hket.com/article/4143104/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143104/080626_169_iet_Eris__600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜沙田新城市廣場直播25場賽事 聯成 LEGO® 香港神還原3米高、1：8大力神盃",
-        "articletime": "2026/06/08",
-        "articleurl": "https://ps.hket.com/article/4142269/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4142269/11_1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜賽前預熱　本地薑推「寵物球衣」人寵齊打氣　 香港元素文創產品同熱賣",
-        "articletime": "2026/06/07",
-        "articleurl": "https://topick.hket.com/article/4142619/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4142619/c69f6906-e8aa-4b33-b683-55a2baedd10d_1_600.jpg"
     }
 ];

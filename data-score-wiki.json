@@ -2,7 +2,7 @@
     {
         "group": "Group A",
         "rank": 1,
-        "team_name": "Mexico(H, A)",
+        "team_name": "Mexico",
         "played": 2,
         "win": 2,
         "draw": 0,
@@ -156,7 +156,7 @@
     {
         "group": "Group C",
         "rank": 4,
-        "team_name": "Haiti(E)",
+        "team_name": "Haiti",
         "played": 2,
         "win": 0,
         "draw": 0,
@@ -170,7 +170,7 @@
     {
         "group": "Group D",
         "rank": 1,
-        "team_name": "United States(H, A)",
+        "team_name": "United States",
         "played": 2,
         "win": 2,
         "draw": 0,
@@ -212,7 +212,7 @@
     {
         "group": "Group D",
         "rank": 4,
-        "team_name": "Turkey(E)",
+        "team_name": "Turkey",
         "played": 2,
         "win": 0,
         "draw": 0,
@@ -226,7 +226,7 @@
     {
         "group": "Group E",
         "rank": 1,
-        "team_name": "Germany(A)",
+        "team_name": "Germany",
         "played": 2,
         "win": 2,
         "draw": 0,
@@ -255,29 +255,29 @@
         "group": "Group E",
         "rank": 3,
         "team_name": "Ecuador",
-        "played": 1,
+        "played": 2,
         "win": 0,
-        "draw": 0,
+        "draw": 1,
         "lose": 1,
         "goals_for": 0,
         "goals_against": 1,
         "goals_diff": -1,
         "goals_diff_display": "-1",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group E",
         "rank": 4,
         "team_name": "Curaçao",
-        "played": 1,
+        "played": 2,
         "win": 0,
-        "draw": 0,
+        "draw": 1,
         "lose": 1,
         "goals_for": 1,
         "goals_against": 7,
         "goals_diff": -6,
         "goals_diff_display": "-6",
-        "points": 0
+        "points": 1
     },
     {
         "group": "Group F",

@@ -3,7 +3,7 @@ import os
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-url = "https://script.google.com/macros/s/AKfycbyV15RT-DWy_cjlvYPJK-eO67wmcrOKs0DrtO28esuqIldH1ghtRxpD_YDtEC31TYl1eA/exec"
+url = "https://script.google.com/macros/s/AKfycbzfG_kyQ4tCuAFFBI8adIxCRcuYGcTlQROcKPo1tfTGQLB4-_4gKnFOzZOeYGzHLm37EQ/exec"
 
 response = requests.get(url, allow_redirects=True)
 with open("data-score-wiki.json", "w", encoding="utf-8") as f:

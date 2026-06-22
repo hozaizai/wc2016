@@ -1,32 +1,50 @@
 var focusData = [
     {
-        "title": "世界盃2026｜日本旗開得勝大勝突尼西亞　數百人商場觀賽全場歡呼　球迷乘父親節攜子女齊打氣",
-        "url": "https://topick.hket.com/article/4149437/?r=worldcup2026",
+        "title": "世界盃2026︱佛教志蓮小學新校長搞凌晨世界盃之夜　前校長辭職戰《中年好聲音4》追夢兩任校長皆破格",
+        "url": "https://topick.hket.com/article/4149773/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "title": "美斯有力再數糊 獨佔世盃「士哥王」",
+        "url": "https://paper.hket.com/article/4149527/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】巴拉圭1:0土耳其！64秒最快入球送對手出局 巴拉圭兵「掩嘴說話」紅牌創歷史",
-        "url": "https://inews.hket.com/article/4149400/?r=worldcup2026",
+        "title": "麥巴比出「法」寶 求挫伊拉克",
+        "url": "https://paper.hket.com/article/4149528/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
     {
+        "articletitle": "世界盃2026︱佛教志蓮小學新校長搞凌晨世界盃之夜　前校長辭職戰《中年好聲音4》追夢兩任校長皆破格",
+        "articletime": "2026/06/22",
+        "articleurl": "https://topick.hket.com/article/4149773/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149773/worldcup_thumb_20260622_600.png"
+    },
+    {
+        "articletitle": "美斯有力再數糊 獨佔世盃「士哥王」",
+        "articletime": "2026/06/22",
+        "articleurl": "https://paper.hket.com/article/4149527/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149527/HKET_20260622_A14_22HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "麥巴比出「法」寶 求挫伊拉克",
+        "articletime": "2026/06/22",
+        "articleurl": "https://paper.hket.com/article/4149528/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149528/HKET_20260622_A14_02_a_480x270.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/22",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
         "articletitle": "世界盃2026｜日本旗開得勝大勝突尼西亞　數百人商場觀賽全場歡呼　球迷乘父親節攜子女齊打氣",
         "articletime": "2026/06/21",
         "articleurl": "https://topick.hket.com/article/4149437/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149437/200_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/20",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "【世界盃2026】巴拉圭1:0土耳其！64秒最快入球送對手出局 巴拉圭兵「掩嘴說話」紅牌創歷史",
@@ -465,5 +483,77 @@ var data = [
         "articletime": "2026/06/10",
         "articleurl": "https://topick.hket.com/article/4144676/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144676/football20260611_thumb__600.png"
+    },
+    {
+        "articletitle": "【世界盃2026】美餐廳擬加收服務費 憂遊客拒付小費",
+        "articletime": "2026/06/10",
+        "articleurl": "https://inews.hket.com/article/4144645/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144645/0610_tip_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】返工唔專心？花旗：世界盃或分散交易員注意力　賽事期間料美歐債市波動減弱",
+        "articletime": "2026/06/10",
+        "articleurl": "https://inews.hket.com/article/4143851/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143851/100626_169_iet_patrick__600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】魔人夏蘭特代言王老吉　改編《Haaland Song》神曲勁洗腦　過去一年勁袋8000萬美元",
+        "articletime": "2026/06/10",
+        "articleurl": "https://inews.hket.com/article/4144445/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144445/100626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜證券商推3大開戶優惠！新開戶送20股盈富基金　全數回贈轉倉費",
+        "articletime": "2026/06/10",
+        "articleurl": "https://wealth.hket.com/article/4144353/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144353/76c3bab0c9a34e9eb0ca8a6908c36642_1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜MegaBox聯乘《足球小將》辦足球祭　5米高大空翼對決日向小次郎　消費即換南葛隊精品",
+        "articletime": "2026/06/10",
+        "articleurl": "https://wealth.hket.com/article/4144327/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144327/51_1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜麥當勞送五大球星珍藏杯　$49嘆18件麥樂雞餐+期間限定醬",
+        "articletime": "2026/06/10",
+        "articleurl": "https://wealth.hket.com/article/4144232/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144232/bom3jwtvm8_1_600.png"
+    },
+    {
+        "articletitle": "世界盃2026｜信置田兆源支持法國3度捧盃  大軍陣容強勁經驗豐富",
+        "articletime": "2026/06/10",
+        "articleurl": "https://ps.hket.com/article/4143982/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143982/090626_169_iet_YAN_3_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】美國酒店預訂率遜墨加 僅一城市達4成",
+        "articletime": "2026/06/09",
+        "articleurl": "https://inews.hket.com/article/4143935/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143935/0609_hotel_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026︱TELLER自爆為保肌肉少飲酒　Jacky Fan拍MV慘被「葵芳」蔡蕙琪請食檸檬",
+        "articletime": "2026/06/09",
+        "articleurl": "https://topick.hket.com/article/4143854/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143854/worldcup_20260609_thumb__600.png"
+    },
+    {
+        "articletitle": "世界盃2026｜長實郭子威睇好法國封王  陣容星光熠熠贏面百分百",
+        "articletime": "2026/06/09",
+        "articleurl": "https://ps.hket.com/article/4143782/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143782/090626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜馬會推「全城足球主場」　23投注站提早開放直播球賽【附詳情】",
+        "articletime": "2026/06/09",
+        "articleurl": "https://news.hket.com/article/4143711/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143711/WhatsAppImage2026-06-09at115733_1_600.jpeg"
+    },
+    {
+        "articletitle": "【世界盃2026】高盛：世界盃短暫提振美國就業與消費　6月非農料增4萬職位",
+        "articletime": "2026/06/09",
+        "articleurl": "https://inews.hket.com/article/4143567/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143567/090626_169_iet_fish__v1_600.jpg"
     }
 ];

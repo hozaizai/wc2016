@@ -1,21 +1,45 @@
 var focusData = [
     {
-        "title": "【世界盃2026】比利時打少1人 0：0賽和伊朗",
-        "url": "https://inews.hket.com/article/4150138/?r=worldcup2026",
+        "title": "【世界盃2026】美斯完場前表演魔術 扭過龍門、射穿4後衛 阿根廷贏兩粒",
+        "url": "https://inews.hket.com/article/4150249/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜日本隊「顏值天花板」中村敬斗爆紅　擁1.8米身高撞樣謝霆鋒大仔Lucas",
-        "url": "https://topick.hket.com/article/4150111/?r=worldcup2026",
+        "title": "【世界盃2026】一文看清世界盃賽程時間表",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】德球迷發帖分享美加之旅 變網紅獲邀訪白宮",
-        "url": "https://inews.hket.com/article/4150117/?r=worldcup2026",
+        "title": "葡軍上下撑C朗 「克」敵不容再失",
+        "url": "https://paper.hket.com/article/4150205/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】美斯完場前表演魔術 扭過龍門、射穿4後衛 阿根廷贏兩粒",
+        "articletime": "2026/06/23",
+        "articleurl": "https://inews.hket.com/article/4150249/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150249/2026-06-22T190629Z_2041530520_UP1EM6M1H2RNI_RTRMADP_5_SOCCER-WORLDCUP-ARG-AUT_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/23",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "葡軍上下撑C朗 「克」敵不容再失",
+        "articletime": "2026/06/23",
+        "articleurl": "https://paper.hket.com/article/4150205/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150205/HKET_20260623_A11_23HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "狀態大勇往績「加」持 三獅勢再下一城",
+        "articletime": "2026/06/23",
+        "articleurl": "https://paper.hket.com/article/4150206/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150206/HKET_20260623_A11_23HH002__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】比利時打少1人 0：0賽和伊朗",
         "articletime": "2026/06/22",
@@ -51,12 +75,6 @@ var data = [
         "articletime": "2026/06/22",
         "articleurl": "https://paper.hket.com/article/4149528/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149528/HKET_20260622_A14_02_a_480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/22",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "世界盃2026｜日本旗開得勝大勝突尼西亞　數百人商場觀賽全場歡呼　球迷乘父親節攜子女齊打氣",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/10",
         "articleurl": "https://wealth.hket.com/article/4144232/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144232/bom3jwtvm8_1_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜信置田兆源支持法國3度捧盃  大軍陣容強勁經驗豐富",
-        "articletime": "2026/06/10",
-        "articleurl": "https://ps.hket.com/article/4143982/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143982/090626_169_iet_YAN_3_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】美國酒店預訂率遜墨加 僅一城市達4成",
-        "articletime": "2026/06/09",
-        "articleurl": "https://inews.hket.com/article/4143935/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143935/0609_hotel_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026︱TELLER自爆為保肌肉少飲酒　Jacky Fan拍MV慘被「葵芳」蔡蕙琪請食檸檬",
-        "articletime": "2026/06/09",
-        "articleurl": "https://topick.hket.com/article/4143854/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143854/worldcup_20260609_thumb__600.png"
     }
 ];

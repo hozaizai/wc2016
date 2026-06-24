@@ -555,11 +555,5 @@ var data = [
         "articletime": "2026/06/10",
         "articleurl": "https://topick.hket.com/article/4144676/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144676/football20260611_thumb__600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】美餐廳擬加收服務費 憂遊客拒付小費",
-        "articletime": "2026/06/10",
-        "articleurl": "https://inews.hket.com/article/4144645/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144645/0610_tip_600.jpg"
     }
 ];

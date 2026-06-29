@@ -1,6 +1,11 @@
 {
     "focusData": [
         {
+            "title": "世界盃直播2026｜全港世界盃免費睇波商場推介　3大商場播足104場賽事【不斷更新】",
+            "url": "https://topick.hket.com/article/4143686/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
             "title": "南韓出局李在明致歉 轟韓足協教練",
             "url": "https://paper.hket.com/article/4153094/?r=worldcup2026",
             "tag": "焦點"
@@ -9,14 +14,15 @@
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
-        },
-        {
-            "title": "【世界盃2026】一文看清世界盃小組出線權 2分鐘大逆轉、伊朗出局",
-            "url": "https://inews.hket.com/article/4151474/?r=worldcup2026",
-            "tag": "焦點"
         }
     ],
     "data": [
+        {
+            "articletitle": "世界盃直播2026｜全港世界盃免費睇波商場推介　3大商場播足104場賽事【不斷更新】",
+            "articletime": "2026/06/29",
+            "articleurl": "https://topick.hket.com/article/4143686/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143686/worldcup_thumb_20260612_600.png"
+        },
         {
             "articletitle": "南韓出局李在明致歉 轟韓足協教練",
             "articletime": "2026/06/29",
@@ -190,12 +196,6 @@
             "articletime": "2026/06/22",
             "articleurl": "https://topick.hket.com/article/4149773/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149773/worldcup_thumb_20260622_600.png"
-        },
-        {
-            "articletitle": "美斯有力再數糊 獨佔世盃「士哥王」",
-            "articletime": "2026/06/22",
-            "articleurl": "https://paper.hket.com/article/4149527/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149527/HKET_20260622_A14_22HH003__480x270.jpg"
         }
     ]
 }

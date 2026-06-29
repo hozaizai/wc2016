@@ -1,6 +1,11 @@
 {
     "focusData": [
         {
+            "title": "南韓出局李在明致歉 轟韓足協教練",
+            "url": "https://paper.hket.com/article/4153094/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
@@ -9,14 +14,15 @@
             "title": "【世界盃2026】一文看清世界盃小組出線權 2分鐘大逆轉、伊朗出局",
             "url": "https://inews.hket.com/article/4151474/?r=worldcup2026",
             "tag": "焦點"
-        },
-        {
-            "title": "世界盃優惠｜馬拉松限時4日派1000份「睇波打氣包」　抽獎贏PS5 Pro/8000元旅遊禮券",
-            "url": "https://topick.hket.com/article/4152356/?r=worldcup2026",
-            "tag": "焦點"
         }
     ],
     "data": [
+        {
+            "articletitle": "南韓出局李在明致歉 轟韓足協教練",
+            "articletime": "2026/06/29",
+            "articleurl": "https://paper.hket.com/article/4153094/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153094/HKET_20260629_A19_29HH005__480x270.jpg"
+        },
         {
             "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
             "articletime": "2026/06/28",
@@ -46,6 +52,24 @@
             "articletime": "2026/06/27",
             "articleurl": "https://paper.hket.com/article/4152865/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152865/HKET_20260627_A09_27HH003__480x270.jpg"
+        },
+        {
+            "articletitle": "世界盃2026美國隊由沙漠弱旅 變綠洲青年之路",
+            "articletime": "2026/06/27",
+            "articleurl": "https://paper.hket.com/article/4152665/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152665/HKET_20260627_C06_27EA001__480x270.jpg"
+        },
+        {
+            "articletitle": "C朗天價腕錶再受關注",
+            "articletime": "2026/06/27",
+            "articleurl": "https://paper.hket.com/article/4152666/?r=worldcup2026",
+            "articleimage": "images/default.jpg"
+        },
+        {
+            "articletitle": "ViuTV 99台免費直播焦點（香港時間）",
+            "articletime": "2026/06/27",
+            "articleurl": "https://paper.hket.com/article/4152667/?r=worldcup2026",
+            "articleimage": "images/default.jpg"
         },
         {
             "articletitle": "世界盃2026｜逾半數球迷簽證申請 遭加拿大拒簽",
@@ -172,30 +196,6 @@
             "articletime": "2026/06/22",
             "articleurl": "https://paper.hket.com/article/4149527/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149527/HKET_20260622_A14_22HH003__480x270.jpg"
-        },
-        {
-            "articletitle": "麥巴比出「法」寶 求挫伊拉克",
-            "articletime": "2026/06/22",
-            "articleurl": "https://paper.hket.com/article/4149528/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149528/HKET_20260622_A14_02_a_480x270.jpg"
-        },
-        {
-            "articletitle": "世界盃2026｜日本旗開得勝大勝突尼西亞　數百人商場觀賽全場歡呼　球迷乘父親節攜子女齊打氣",
-            "articletime": "2026/06/21",
-            "articleurl": "https://topick.hket.com/article/4149437/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149437/200_600.png"
-        },
-        {
-            "articletitle": "【世界盃2026】巴拉圭1:0土耳其！64秒最快入球送對手出局 巴拉圭兵「掩嘴說話」紅牌創歷史",
-            "articletime": "2026/06/20",
-            "articleurl": "https://inews.hket.com/article/4149400/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149400/026-06-20145530_1_600.png"
-        },
-        {
-            "articletitle": "【世界盃2026】美國兩連勝 2：0贏澳洲",
-            "articletime": "2026/06/20",
-            "articleurl": "https://inews.hket.com/article/4149371/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149371/2282404139_1_600.jpg"
         }
     ]
 }

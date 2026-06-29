@@ -1,5 +1,10 @@
 var focusData = [
     {
+        "title": "南韓出局李在明致歉 轟韓足協教練",
+        "url": "https://paper.hket.com/article/4153094/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】一文看清世界盃賽程時間表",
         "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
@@ -8,14 +13,15 @@ var focusData = [
         "title": "【世界盃2026】一文看清世界盃小組出線權 2分鐘大逆轉、伊朗出局",
         "url": "https://inews.hket.com/article/4151474/?r=worldcup2026",
         "tag": "焦點"
-    },
-    {
-        "title": "世界盃優惠｜馬拉松限時4日派1000份「睇波打氣包」　抽獎贏PS5 Pro/8000元旅遊禮券",
-        "url": "https://topick.hket.com/article/4152356/?r=worldcup2026",
-        "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "南韓出局李在明致歉 轟韓足協教練",
+        "articletime": "2026/06/29",
+        "articleurl": "https://paper.hket.com/article/4153094/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153094/HKET_20260629_A19_29HH005__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
         "articletime": "2026/06/28",
@@ -45,6 +51,24 @@ var data = [
         "articletime": "2026/06/27",
         "articleurl": "https://paper.hket.com/article/4152865/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152865/HKET_20260627_A09_27HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃2026美國隊由沙漠弱旅 變綠洲青年之路",
+        "articletime": "2026/06/27",
+        "articleurl": "https://paper.hket.com/article/4152665/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152665/HKET_20260627_C06_27EA001__480x270.jpg"
+    },
+    {
+        "articletitle": "C朗天價腕錶再受關注",
+        "articletime": "2026/06/27",
+        "articleurl": "https://paper.hket.com/article/4152666/?r=worldcup2026",
+        "articleimage": "images/default.jpg"
+    },
+    {
+        "articletitle": "ViuTV 99台免費直播焦點（香港時間）",
+        "articletime": "2026/06/27",
+        "articleurl": "https://paper.hket.com/article/4152667/?r=worldcup2026",
+        "articleimage": "images/default.jpg"
     },
     {
         "articletitle": "世界盃2026｜逾半數球迷簽證申請 遭加拿大拒簽",
@@ -531,29 +555,5 @@ var data = [
         "articletime": "2026/06/12",
         "articleurl": "https://inews.hket.com/article/4145648/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145648/2026-06-12T040650Z_146647939_UP1EM6C0BFC9K_RTRMADP_5_SOCCER-WORLDCUP-KOR-CZE_1_600.JPG"
-    },
-    {
-        "articletitle": "世界盃2026｜蓮香樓上環店直播精彩賽事  食住點心睇好波",
-        "articletime": "2026/06/12",
-        "articleurl": "https://ps.hket.com/article/4085416/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4085000/4085416/090626_169_iet_YAN__600.jpg"
-    },
-    {
-        "articletitle": "外圍賭博蠶食社會　港人20年輸2,500億　24小時賭網吸客　毒害市民遺禍社會",
-        "articletime": "2026/06/12",
-        "articleurl": "https://topick.hket.com/article/4145569/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145569/HKJC_gameoutside_NA_1200x675_1200_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】墨西哥2-0贏南非 揭幕戰3人紅牌破紀錄",
-        "articletime": "2026/06/12",
-        "articleurl": "https://inews.hket.com/article/4145445/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145445/2026-06-11T205638Z_1116038793_UP1EM6B1LFIT9_RTRMADP_5_SOCCER-WORLDCUP-MEX-ZAF_1_600.JPG"
-    },
-    {
-        "articletitle": "世界盃2026｜球衣店銷情升溫C朗受捧　美斯事件影響銷量　賽事時間「唔就腳」球迷未必睇",
-        "articletime": "2026/06/12",
-        "articleurl": "https://topick.hket.com/article/4144729/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4144729/WORLDCUP20260612_THUMB__600.png"
     }
 ];

@@ -1,6 +1,11 @@
 {
     "focusData": [
         {
+            "title": "世界盃2026｜大熱門法國深夜登場對瑞典  奧海城、apm、MCP 新都城中心等播足全部104場",
+            "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
@@ -9,14 +14,15 @@
             "title": "【世界盃2026】巴西完場前絕殺 伊巴：日本將巴西逼向絕境 可昂首離開",
             "url": "https://inews.hket.com/article/4153831/?r=worldcup2026",
             "tag": "焦點"
-        },
-        {
-            "title": "法國鋒將默契佳 強攻瑞典防綫",
-            "url": "https://paper.hket.com/article/4153802/?r=worldcup2026",
-            "tag": "焦點"
         }
     ],
     "data": [
+        {
+            "articletitle": "世界盃2026｜大熱門法國深夜登場對瑞典  奧海城、apm、MCP 新都城中心等播足全部104場",
+            "articletime": "2026/06/30",
+            "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+        },
         {
             "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
             "articletime": "2026/06/30",
@@ -190,12 +196,6 @@
             "articletime": "2026/06/23",
             "articleurl": "https://paper.hket.com/article/4150206/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150206/HKET_20260623_A11_23HH002__480x270.jpg"
-        },
-        {
-            "articletitle": "【世界盃2026】比利時打少1人 0：0賽和伊朗",
-            "articletime": "2026/06/22",
-            "articleurl": "https://inews.hket.com/article/4150138/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150138/65b782f6-d16b-4e22-bb7f-2e649a2c4547_1_600.jpg"
         }
     ]
 }

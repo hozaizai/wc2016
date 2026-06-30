@@ -1,32 +1,56 @@
 var focusData = [
     {
-        "title": "南韓出局李在明致歉 轟韓足協教練",
-        "url": "https://paper.hket.com/article/4153094/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
         "title": "【世界盃2026】一文看清世界盃賽程時間表",
         "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】一文看清世界盃小組出線權 2分鐘大逆轉、伊朗出局",
-        "url": "https://inews.hket.com/article/4151474/?r=worldcup2026",
+        "title": "【世界盃2026】巴西完場前絕殺 伊巴：日本將巴西逼向絕境 可昂首離開",
+        "url": "https://inews.hket.com/article/4153831/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "法國鋒將默契佳 強攻瑞典防綫",
+        "url": "https://paper.hket.com/article/4153802/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
     {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/06/30",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】巴西完場前絕殺 伊巴：日本將巴西逼向絕境 可昂首離開",
+        "articletime": "2026/06/30",
+        "articleurl": "https://inews.hket.com/article/4153831/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153831/2026-06-29T194124Z_756901420_UP1EM6T1IOZY6_RTRMADP_5_SOCCER-WORLDCUP-BRA-JPN_1_600.JPG"
+    },
+    {
+        "articletitle": "法國鋒將默契佳 強攻瑞典防綫",
+        "articletime": "2026/06/30",
+        "articleurl": "https://paper.hket.com/article/4153802/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153802/HKET_20260630_A13_30HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "夏蘭特蓄銳 誓破非洲象揚「威」",
+        "articletime": "2026/06/30",
+        "articleurl": "https://paper.hket.com/article/4153801/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153801/HKET_20260630_A13_30HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃直播2026｜全港世界盃免費睇波商場推介　3大商場播足104場賽事【不斷更新】",
+        "articletime": "2026/06/29",
+        "articleurl": "https://topick.hket.com/article/4143686/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143686/worldcup_thumb_20260612_600.png"
+    },
+    {
         "articletitle": "南韓出局李在明致歉 轟韓足協教練",
         "articletime": "2026/06/29",
         "articleurl": "https://paper.hket.com/article/4153094/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153094/HKET_20260629_A19_29HH005__480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/06/28",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "【世界盃2026】一文看清世界盃小組出線權 2分鐘大逆轉、伊朗出局",
@@ -503,12 +527,6 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146088/WORLDCUP_20260612_NNNN_600.png"
     },
     {
-        "articletitle": "世界盃直播2026｜全港世界盃免費睇波商場推介　3大商場播足104場賽事【不斷更新】",
-        "articletime": "2026/06/12",
-        "articleurl": "https://topick.hket.com/article/4143686/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143686/worldcup_thumb_20260612_600.png"
-    },
-    {
         "articletitle": "世界盃2026｜蘭桂坊酒吧客流量未及往屆旺場　放棄早市但延長晚上營業時間",
         "articletime": "2026/06/12",
         "articleurl": "https://topick.hket.com/article/4145991/?r=worldcup2026",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/12",
         "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜凌晨朝早開賽有挑戰　梁熙：食肆延長營業需計人手成本要「諗計」",
-        "articletime": "2026/06/12",
-        "articleurl": "https://topick.hket.com/article/4145675/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145675/FOOTBALL20260612_THUMB__600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】LABUBU以球迷姿態驚喜亮相世界盃開幕式、高舉大力神盃　泡泡瑪特9992股價升逾3%贈慶",
-        "articletime": "2026/06/12",
-        "articleurl": "https://inews.hket.com/article/4145672/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145672/7a4vb6a5i6h_1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】南韓2：1反勝捷克",
-        "articletime": "2026/06/12",
-        "articleurl": "https://inews.hket.com/article/4145648/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145648/2026-06-12T040650Z_146647939_UP1EM6C0BFC9K_RTRMADP_5_SOCCER-WORLDCUP-KOR-CZE_1_600.JPG"
     }
 ];

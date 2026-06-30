@@ -1,5 +1,10 @@
 var focusData = [
     {
+        "title": "世界盃2026｜大熱門法國深夜登場對瑞典  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】一文看清世界盃賽程時間表",
         "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
@@ -8,14 +13,15 @@ var focusData = [
         "title": "【世界盃2026】巴西完場前絕殺 伊巴：日本將巴西逼向絕境 可昂首離開",
         "url": "https://inews.hket.com/article/4153831/?r=worldcup2026",
         "tag": "焦點"
-    },
-    {
-        "title": "法國鋒將默契佳 強攻瑞典防綫",
-        "url": "https://paper.hket.com/article/4153802/?r=worldcup2026",
-        "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜大熱門法國深夜登場對瑞典  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/06/30",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
     {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
         "articletime": "2026/06/30",
@@ -549,11 +555,5 @@ var data = [
         "articletime": "2026/06/12",
         "articleurl": "https://inews.hket.com/article/4145973/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145973/0612_Cup_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜直擊市民迫爆商場睇直播賽事  奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/06/12",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     }
 ];

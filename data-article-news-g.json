@@ -1,7 +1,12 @@
 {
     "focusData": [
         {
-            "title": "世界盃2026｜大熱門法國深夜登場對瑞典  奧海城、apm、MCP 新都城中心等播足全部104場",
+            "title": "世界盃2026︱C朗六戰世界盃波鞋印5子女名字　與女友相愛10年曾歷喪子之痛：最艱難時刻",
+            "url": "https://topick.hket.com/article/4153384/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
+            "title": "世界盃2026｜港人最愛英格蘭今晚登場   奧海城、apm、MCP 新都城中心等播足全部104場",
             "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
             "tag": "焦點"
         },
@@ -9,25 +14,38 @@
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
-        },
-        {
-            "title": "【世界盃2026】巴西完場前絕殺 伊巴：日本將巴西逼向絕境 可昂首離開",
-            "url": "https://inews.hket.com/article/4153831/?r=worldcup2026",
-            "tag": "焦點"
         }
     ],
     "data": [
         {
-            "articletitle": "世界盃2026｜大熱門法國深夜登場對瑞典  奧海城、apm、MCP 新都城中心等播足全部104場",
-            "articletime": "2026/06/30",
+            "articletitle": "世界盃2026︱C朗六戰世界盃波鞋印5子女名字　與女友相愛10年曾歷喪子之痛：最艱難時刻",
+            "articletime": "2026/07/01",
+            "articleurl": "https://topick.hket.com/article/4153384/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153384/Cristiano_thumb_20260629_600.png"
+        },
+        {
+            "articletitle": "世界盃2026｜港人最愛英格蘭今晚登場   奧海城、apm、MCP 新都城中心等播足全部104場",
+            "articletime": "2026/07/01",
             "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
         },
         {
             "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-            "articletime": "2026/06/30",
+            "articletime": "2026/07/01",
             "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+        },
+        {
+            "articletitle": "三獅邊路欠默契 靠死球制「剛」",
+            "articletime": "2026/07/01",
+            "articleurl": "https://paper.hket.com/article/4154485/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4154485/HKET_20260701_A11_01HH001__480x270.jpg"
+        },
+        {
+            "articletitle": "美國踢法進取 誓贏「波」晉級",
+            "articletime": "2026/07/01",
+            "articleurl": "https://paper.hket.com/article/4154486/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4154486/HKET_20260701_A11_01HH003__480x270.jpg"
         },
         {
             "articletitle": "【世界盃2026】巴西完場前絕殺 伊巴：日本將巴西逼向絕境 可昂首離開",
@@ -178,24 +196,6 @@
             "articletime": "2026/06/23",
             "articleurl": "https://topick.hket.com/article/4149909/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149909/ballball_thumb_20260623_600.png"
-        },
-        {
-            "articletitle": "【世界盃2026】美斯完場前表演魔術 扭過龍門、射穿4後衛 阿根廷贏兩粒",
-            "articletime": "2026/06/23",
-            "articleurl": "https://inews.hket.com/article/4150249/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150249/2026-06-22T190629Z_2041530520_UP1EM6M1H2RNI_RTRMADP_5_SOCCER-WORLDCUP-ARG-AUT_1_600.JPG"
-        },
-        {
-            "articletitle": "葡軍上下撑C朗 「克」敵不容再失",
-            "articletime": "2026/06/23",
-            "articleurl": "https://paper.hket.com/article/4150205/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150205/HKET_20260623_A11_23HH003__480x270.jpg"
-        },
-        {
-            "articletitle": "狀態大勇往績「加」持 三獅勢再下一城",
-            "articletime": "2026/06/23",
-            "articleurl": "https://paper.hket.com/article/4150206/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150206/HKET_20260623_A11_23HH002__480x270.jpg"
         }
     ]
 }

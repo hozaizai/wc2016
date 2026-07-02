@@ -1,12 +1,12 @@
 var focusData = [
     {
-        "title": "世界盃2026︱C朗六戰世界盃波鞋印5子女名字　與女友相愛10年曾歷喪子之痛：最艱難時刻",
-        "url": "https://topick.hket.com/article/4153384/?r=worldcup2026",
+        "title": "世界盃2026｜葡萄牙明早力鬥克羅地亞   奧海城、apm、MCP 新都城中心等播足全部104場",
+        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜港人最愛英格蘭今晚登場   奧海城、apm、MCP 新都城中心等播足全部104場",
-        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "title": "世界盃2026｜夏蘭特助挪威殺入16強  大紅人曾聯乘百年靈名錶",
+        "url": "https://topick.hket.com/article/4154950/?r=worldcup2026",
         "tag": "焦點"
     },
     {
@@ -17,22 +17,40 @@ var focusData = [
 ];
 var data = [
     {
-        "articletitle": "世界盃2026︱C朗六戰世界盃波鞋印5子女名字　與女友相愛10年曾歷喪子之痛：最艱難時刻",
-        "articletime": "2026/07/01",
-        "articleurl": "https://topick.hket.com/article/4153384/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153384/Cristiano_thumb_20260629_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜港人最愛英格蘭今晚登場   奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/01",
+        "articletitle": "世界盃2026｜葡萄牙明早力鬥克羅地亞   奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/02",
         "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     },
     {
+        "articletitle": "世界盃2026｜夏蘭特助挪威殺入16強  大紅人曾聯乘百年靈名錶",
+        "articletime": "2026/07/02",
+        "articleurl": "https://topick.hket.com/article/4154950/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4154950/EA4_1_600.jpg"
+    },
+    {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/07/01",
+        "articletime": "2026/07/02",
         "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "「狂牛」衝擊奧地利 耶馬左右大局",
+        "articletime": "2026/07/02",
+        "articleurl": "https://paper.hket.com/article/4154669/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4154669/HKET_20260702_A12_02HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "萬事靠C朗？ 葡軍「克」敵存隱憂",
+        "articletime": "2026/07/02",
+        "articleurl": "https://paper.hket.com/article/4154668/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4154668/HKET_20260702_A12_02HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃2026︱C朗六戰世界盃波鞋印5子女名字　與女友相愛10年曾歷喪子之痛：最艱難時刻",
+        "articletime": "2026/07/01",
+        "articleurl": "https://topick.hket.com/article/4153384/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4153384/Cristiano_thumb_20260629_600.png"
     },
     {
         "articletitle": "三獅邊路欠默契 靠死球制「剛」",
@@ -239,16 +257,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149773/worldcup_thumb_20260622_600.png"
     },
     {
-        "articletitle": "麥巴比出「法」寶 求挫伊拉克",
-        "articletime": "2026/06/22",
-        "articleurl": "https://paper.hket.com/article/4149528/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149528/HKET_20260622_A14_02_a_480x270.jpg"
-    },
-    {
         "articletitle": "美斯有力再數糊 獨佔世盃「士哥王」",
         "articletime": "2026/06/22",
         "articleurl": "https://paper.hket.com/article/4149527/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149527/HKET_20260622_A14_22HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "麥巴比出「法」寶 求挫伊拉克",
+        "articletime": "2026/06/22",
+        "articleurl": "https://paper.hket.com/article/4149528/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149528/HKET_20260622_A14_02_a_480x270.jpg"
     },
     {
         "articletitle": "世界盃2026｜日本旗開得勝大勝突尼西亞　數百人商場觀賽全場歡呼　球迷乘父親節攜子女齊打氣",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/13",
         "articleurl": "https://paper.hket.com/article/4145902/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145902/HKET_20260613_C06_13EA001__480x270.jpg"
-    },
-    {
-        "articletitle": "10款可口可樂 FIFA世界盃26限定版",
-        "articletime": "2026/06/13",
-        "articleurl": "https://paper.hket.com/article/4145903/?r=worldcup2026",
-        "articleimage": "images/default.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜啟德零售館直播30場世界盃日間賽事　商戶推餐飲零售優惠",
-        "articletime": "2026/06/12",
-        "articleurl": "https://topick.hket.com/article/4146088/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146088/WORLDCUP_20260612_NNNN_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜蘭桂坊酒吧客流量未及往屆旺場　放棄早市但延長晚上營業時間",
-        "articletime": "2026/06/12",
-        "articleurl": "https://topick.hket.com/article/4145991/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145991/ezytbqmls66_1_600.jpeg"
     }
 ];

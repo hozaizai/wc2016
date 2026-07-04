@@ -1,33 +1,45 @@
 {
     "focusData": [
         {
-            "title": "世界盃2026｜阿根廷球王美斯登場對佛得角   奧海城、apm、MCP 新都城中心等播足全部104場",
-            "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-            "tag": "焦點"
-        },
-        {
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
         },
         {
-            "title": "美斯火力全開 誓率阿根廷脫「角」",
-            "url": "https://paper.hket.com/article/4155425/?r=worldcup2026",
+            "title": "哈利簡尼爭士「哥」 冀率三獅闖8強",
+            "url": "https://paper.hket.com/article/4156065/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
+            "title": "沙巴利大勇 摩洛哥誓擒「拿」",
+            "url": "https://paper.hket.com/article/4156066/?r=worldcup2026",
             "tag": "焦點"
         }
     ],
     "data": [
         {
+            "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+            "articletime": "2026/07/04",
+            "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+        },
+        {
+            "articletitle": "哈利簡尼爭士「哥」 冀率三獅闖8強",
+            "articletime": "2026/07/04",
+            "articleurl": "https://paper.hket.com/article/4156065/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156065/HKET_20260704_A09_04HH001__480x270.jpg"
+        },
+        {
+            "articletitle": "沙巴利大勇 摩洛哥誓擒「拿」",
+            "articletime": "2026/07/04",
+            "articleurl": "https://paper.hket.com/article/4156066/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156066/HKET_20260704_A09_04HH003__480x270.jpg"
+        },
+        {
             "articletitle": "世界盃2026｜阿根廷球王美斯登場對佛得角   奧海城、apm、MCP 新都城中心等播足全部104場",
             "articletime": "2026/07/03",
             "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
-        },
-        {
-            "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-            "articletime": "2026/07/03",
-            "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
         },
         {
             "articletitle": "美斯火力全開 誓率阿根廷脫「角」",
@@ -184,18 +196,6 @@
             "articletime": "2026/06/25",
             "articleurl": "https://paper.hket.com/article/4151408/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151408/HKET_20260625_A16_25HH002_A_480x270.jpg"
-        },
-        {
-            "articletitle": "世界盃優惠｜惠康免費送$80零食福袋　1招捧走卡樂B薯片/合味道杯麵/維他檸檬茶",
-            "articletime": "2026/06/24",
-            "articleurl": "https://topick.hket.com/article/4151088/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151088/wellcome_thumb_20260624_600.png"
-        },
-        {
-            "articletitle": "世界盃2026︱佛教志蓮小學原定凌晨返校睇世界盃　校方急變陣改辦「同樂日」朝早睇8強",
-            "articletime": "2026/06/24",
-            "articleurl": "https://topick.hket.com/article/4151112/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151112/sch_thumb_20260624_600.png"
         }
     ]
 }

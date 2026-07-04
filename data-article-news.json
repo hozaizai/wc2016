@@ -1,32 +1,44 @@
 var focusData = [
     {
-        "title": "世界盃2026｜阿根廷球王美斯登場對佛得角   奧海城、apm、MCP 新都城中心等播足全部104場",
-        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
         "title": "【世界盃2026】一文看清世界盃賽程時間表",
         "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "美斯火力全開 誓率阿根廷脫「角」",
-        "url": "https://paper.hket.com/article/4155425/?r=worldcup2026",
+        "title": "哈利簡尼爭士「哥」 冀率三獅闖8強",
+        "url": "https://paper.hket.com/article/4156065/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "沙巴利大勇 摩洛哥誓擒「拿」",
+        "url": "https://paper.hket.com/article/4156066/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
     {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/07/04",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "哈利簡尼爭士「哥」 冀率三獅闖8強",
+        "articletime": "2026/07/04",
+        "articleurl": "https://paper.hket.com/article/4156065/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156065/HKET_20260704_A09_04HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "沙巴利大勇 摩洛哥誓擒「拿」",
+        "articletime": "2026/07/04",
+        "articleurl": "https://paper.hket.com/article/4156066/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156066/HKET_20260704_A09_04HH003__480x270.jpg"
+    },
+    {
         "articletitle": "世界盃2026｜阿根廷球王美斯登場對佛得角   奧海城、apm、MCP 新都城中心等播足全部104場",
         "articletime": "2026/07/03",
         "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/07/03",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "美斯火力全開 誓率阿根廷脫「角」",
@@ -543,17 +555,5 @@ var data = [
         "articletime": "2026/06/13",
         "articleurl": "https://inews.hket.com/article/4146163/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146163/afp_b6xd8q3_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】巴西隊靠智能背心大數據布陣！6.23首戰摩洛哥驗收",
-        "articletime": "2026/06/13",
-        "articleurl": "https://inews.hket.com/article/4146090/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146090/2026-06-12222605_1_600.png"
-    },
-    {
-        "articletitle": "巴西登場 硬撼上屆殿軍摩洛哥",
-        "articletime": "2026/06/13",
-        "articleurl": "https://paper.hket.com/article/4146102/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146102/HKET_20260613_A11_13HH002_A_480x270.jpg"
     }
 ];

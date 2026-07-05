@@ -1,5 +1,10 @@
 var focusData = [
     {
+        "title": "世界盃2026｜港人最愛英格蘭明早對主辦國墨西哥  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】一文看清世界盃賽程時間表",
         "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
@@ -8,14 +13,15 @@ var focusData = [
         "title": "哈利簡尼爭士「哥」 冀率三獅闖8強",
         "url": "https://paper.hket.com/article/4156065/?r=worldcup2026",
         "tag": "焦點"
-    },
-    {
-        "title": "沙巴利大勇 摩洛哥誓擒「拿」",
-        "url": "https://paper.hket.com/article/4156066/?r=worldcup2026",
-        "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜港人最愛英格蘭明早對主辦國墨西哥  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/05",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
     {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
         "articletime": "2026/07/05",
@@ -33,12 +39,6 @@ var data = [
         "articletime": "2026/07/04",
         "articleurl": "https://paper.hket.com/article/4156066/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156066/HKET_20260704_A09_04HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜阿根廷球王美斯登場對佛得角   奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/03",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     },
     {
         "articletitle": "美斯火力全開 誓率阿根廷脫「角」",
@@ -465,95 +465,5 @@ var data = [
         "articletime": "2026/06/15",
         "articleurl": "https://topick.hket.com/article/4146512/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146512/ScreenShot2026-06-13at10617AM_1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146717/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146717/2026-06-15T023338Z_1797863049_UP1EM6F0741UN_RTRMADP_5_SOCCER-WORLDCUP-SWE-TUN_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】高盛5萬次模型模擬後更新　西班牙24.7%奪冠率居首　東道主美國成最大黑馬",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146594/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146594/150626_169_iet_patrick_gs_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】小川航基頂贏雲迪克 日本超熱血完場前追和荷蘭2：2",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146409/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146409/2026-06-14T215012Z_1138773448_UP1EM6E1ONMD9_RTRMADP_5_SOCCER-WORLDCUP-NLD-JPN_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】德國7球大勝 庫拉索入1球贏掌聲",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146407/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146407/2026-06-14T172706Z_1553660552_UP1EM6E1CH5LW_RTRMADP_5_SOCCER-WORLDCUP-GER-CUW_1_600.JPG"
-    },
-    {
-        "articletitle": "西班牙超班 勢破世盃新丁佛得角",
-        "articletime": "2026/06/15",
-        "articleurl": "https://paper.hket.com/article/4146347/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146347/HKET_20260615_A14_15HH001__480x270.jpg"
-    },
-    {
-        "articletitle": "伊朗「紐」盡六壬 冀美國場上揚威",
-        "articletime": "2026/06/15",
-        "articleurl": "https://paper.hket.com/article/4146346/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146346/HKET_20260615_A14_15HH004__480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜啟德零售館直播賽事吸引市民駐足觀賽　商戶冀後段比賽氛升溫",
-        "articletime": "2026/06/14",
-        "articleurl": "https://topick.hket.com/article/4146252/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146252/183dde64-2445-4bbd-8a6a-ff8e4602dfad_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】澳洲門神上身 2：0贏土耳其",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146255/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146255/2281489504_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】海地輸蘇格蘭1球 15起腳僅兩中龍",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146244/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146244/2026-06-14T013502Z_2093777256_UP1EM6E04EDRT_RTRMADP_5_SOCCER-WORLDCUP-HTI-SCO_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】巴西摩洛哥對攻 1：1完場",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146236/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146236/2026-06-13T234249Z_426499358_UP1EM6D1TVBIV_RTRMADP_5_SOCCER-WORLDCUP-BRA-MAR_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】卡塔爾94分鐘頂入 1：1迫和瑞士 B組4隊皆和",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146235/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146235/2026-06-13T221244Z_305461930_UP1EM6D1PP5BG_RTRMADP_5_SOCCER-WORLDCUP-QAT-SWI_1_600.JPG"
-    },
-    {
-        "articletitle": "足球小將｜《隊長小翼》登陸MegaBox設5大打卡位　5米高巨型戴志偉對決小志強＋南葛隊獨家精品",
-        "articletime": "2026/06/13",
-        "articleurl": "https://topick.hket.com/article/4141639/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4141639/shopping_play_thumb1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】特朗普於美國隊首戰前曾致電教練表示支持　普捷天奴：目標不僅於D組出線",
-        "articletime": "2026/06/13",
-        "articleurl": "https://inews.hket.com/article/4146176/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146176/130626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜apm巨型怪物足球場登場  6米LED巨幕睇盡104場足球大戰",
-        "articletime": "2026/06/13",
-        "articleurl": "https://ps.hket.com/article/4145719/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145719/WhatsAppImage2026-06-12at125442_1_600.jpeg"
-    },
-    {
-        "articletitle": "【世界盃2026】加拿大追和波斯尼亞1：1",
-        "articletime": "2026/06/13",
-        "articleurl": "https://inews.hket.com/article/4146163/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146163/afp_b6xd8q3_1_600.jpg"
     }
 ];

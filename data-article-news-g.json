@@ -1,33 +1,63 @@
 {
     "focusData": [
         {
-            "title": "世界盃2026｜港人最愛英格蘭明早對主辦國墨西哥  奧海城、apm、MCP 新都城中心等播足全部104場",
+            "title": "世界盃2026｜葡萄牙C朗明晚領軍對西班牙  奧海城、apm、MCP 新都城中心等播足全部104場",
             "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+            "tag": "焦點"
+        },
+        {
+            "title": "世界盃2026｜挪威淘汱五屆冠軍巴西  夏蘭特愛收藏名袋擁多個Birkin",
+            "url": "https://topick.hket.com/article/4156466/?r=worldcup2026",
             "tag": "焦點"
         },
         {
             "title": "【世界盃2026】一文看清世界盃賽程時間表",
             "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "tag": "焦點"
-        },
-        {
-            "title": "哈利簡尼爭士「哥」 冀率三獅闖8強",
-            "url": "https://paper.hket.com/article/4156065/?r=worldcup2026",
-            "tag": "焦點"
         }
     ],
     "data": [
         {
-            "articletitle": "世界盃2026｜港人最愛英格蘭明早對主辦國墨西哥  奧海城、apm、MCP 新都城中心等播足全部104場",
-            "articletime": "2026/07/05",
+            "articletitle": "世界盃2026｜葡萄牙C朗明晚領軍對西班牙  奧海城、apm、MCP 新都城中心等播足全部104場",
+            "articletime": "2026/07/06",
             "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
         },
         {
+            "articletitle": "世界盃2026｜挪威淘汱五屆冠軍巴西  夏蘭特愛收藏名袋擁多個Birkin",
+            "articletime": "2026/07/06",
+            "articleurl": "https://topick.hket.com/article/4156466/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156466/Screenshot2026-07-06101733_1_600.png"
+        },
+        {
             "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-            "articletime": "2026/07/05",
+            "articletime": "2026/07/06",
             "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+        },
+        {
+            "articletitle": "【世界盃2026】Axios踢爆白宮干預 美國領紅牌前鋒特准緩刑 對手比利時：震驚",
+            "articletime": "2026/07/06",
+            "articleurl": "https://inews.hket.com/article/4156343/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156343/RTS2026-07-02T154034Z_1753557091_RC2D5MALJ96P_RTRMADP_5_SOCCER-WORLDCUP-USA-BIH_1_600.JPG"
+        },
+        {
+            "articletitle": "16強「雙牙對決」 攻力大比拼",
+            "articletime": "2026/07/06",
+            "articleurl": "https://paper.hket.com/article/4156306/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156306/HKET_20260706_A15_06HH001__480x270.jpg"
+        },
+        {
+            "articletitle": "美國以逸待勞 比利時體力存疑",
+            "articletime": "2026/07/06",
+            "articleurl": "https://paper.hket.com/article/4156307/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156307/HKET_20260706_A15_06HH003__480x270.jpg"
+        },
+        {
+            "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
+            "articletime": "2026/07/05",
+            "articleurl": "https://ps.hket.com/article/4156276/?r=worldcup2026",
+            "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156276/050726_169_iet_Dominic__600.jpg"
         },
         {
             "articletitle": "哈利簡尼爭士「哥」 冀率三獅闖8強",
@@ -166,36 +196,6 @@
             "articletime": "2026/06/26",
             "articleurl": "https://inews.hket.com/article/4152716/?r=worldcup2026",
             "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152716/0626_canada_600.jpg"
-        },
-        {
-            "articletitle": "外圍莊家世盃期間新招盡出誘客　市民保持高度警惕　一時貪念悔終生",
-            "articletime": "2026/06/26",
-            "articleurl": "https://topick.hket.com/article/4152310/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152310/4152259_HKJC_gameoutside_adv_1200_600.jpg"
-        },
-        {
-            "articletitle": "夏蘭特麥巴比 神射手爭「威」鬥「法」",
-            "articletime": "2026/06/26",
-            "articleurl": "https://paper.hket.com/article/4152108/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152108/HKET_20260626_A17_26HH002_A_480x270.jpg"
-        },
-        {
-            "articletitle": "「歐洲紅魔」兩連和 主力歸隊誓取勝",
-            "articletime": "2026/06/26",
-            "articleurl": "https://paper.hket.com/article/4152107/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152107/HKET_20260626_A17_26HH003_A_480x270.jpg"
-        },
-        {
-            "articletitle": "世界盃2026｜新都城中心周日辦打氣派對 齊撐阿根廷兼免費嚐阿根廷特產",
-            "articletime": "2026/06/25",
-            "articleurl": "https://ps.hket.com/article/4133258/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4133258/MCP_11_1_600.jpg"
-        },
-        {
-            "articletitle": "庫拉索戰非洲象 盼取勝3度創歷史",
-            "articletime": "2026/06/25",
-            "articleurl": "https://paper.hket.com/article/4151408/?r=worldcup2026",
-            "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151408/HKET_20260625_A16_25HH002_A_480x270.jpg"
         }
     ]
 }

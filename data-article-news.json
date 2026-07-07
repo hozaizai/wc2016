@@ -1,12 +1,12 @@
 var focusData = [
     {
-        "title": "世界盃2026｜葡萄牙C朗明晚領軍對西班牙  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "title": "世界盃2026｜阿根廷球王美斯今晚撼埃及 奧海城、apm、MCP 新都城中心等播足全部104場",
         "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜挪威淘汱五屆冠軍巴西  夏蘭特愛收藏名袋擁多個Birkin",
-        "url": "https://topick.hket.com/article/4156466/?r=worldcup2026",
+        "title": "世界盃2026｜C朗飲恨告別世界盃  絕版球衣香港有得睇",
+        "url": "https://topick.hket.com/article/4157057/?r=worldcup2026",
         "tag": "焦點"
     },
     {
@@ -17,22 +17,40 @@ var focusData = [
 ];
 var data = [
     {
-        "articletitle": "世界盃2026｜葡萄牙C朗明晚領軍對西班牙  奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/06",
+        "articletitle": "世界盃2026｜阿根廷球王美斯今晚撼埃及 奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/07",
         "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜C朗飲恨告別世界盃  絕版球衣香港有得睇",
+        "articletime": "2026/07/07",
+        "articleurl": "https://topick.hket.com/article/4157057/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4157057/c1ca1df5-e553-45da-8a3a-d7152a8ca088_1_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/07/07",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "阿根廷撼埃及 美斯沙拿大鬥法",
+        "articletime": "2026/07/07",
+        "articleurl": "https://paper.hket.com/article/4156916/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156916/HKET_20260707_A13_07HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "新星文森比冒起 十字軍團爭士「哥」",
+        "articletime": "2026/07/07",
+        "articleurl": "https://paper.hket.com/article/4156915/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156915/HKET_20260707_A13_07HH003__480x270.jpg"
     },
     {
         "articletitle": "世界盃2026｜挪威淘汱五屆冠軍巴西  夏蘭特愛收藏名袋擁多個Birkin",
         "articletime": "2026/07/06",
         "articleurl": "https://topick.hket.com/article/4156466/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156466/Screenshot2026-07-06101733_1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/07/06",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "【世界盃2026】Axios踢爆白宮干預 美國領紅牌前鋒特准緩刑 對手比利時：震驚",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/14",
         "articleurl": "https://topick.hket.com/article/4146252/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146252/183dde64-2445-4bbd-8a6a-ff8e4602dfad_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】澳洲門神上身 2：0贏土耳其",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146255/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146255/2281489504_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】海地輸蘇格蘭1球 15起腳僅兩中龍",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146244/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146244/2026-06-14T013502Z_2093777256_UP1EM6E04EDRT_RTRMADP_5_SOCCER-WORLDCUP-HTI-SCO_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】巴西摩洛哥對攻 1：1完場",
-        "articletime": "2026/06/14",
-        "articleurl": "https://inews.hket.com/article/4146236/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146236/2026-06-13T234249Z_426499358_UP1EM6D1TVBIV_RTRMADP_5_SOCCER-WORLDCUP-BRA-MAR_1_600.JPG"
     }
 ];

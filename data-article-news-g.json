@@ -1,21 +1,39 @@
 var focusData = [
     {
-        "title": "【世界盃2026】Polymarket大戶押重注 10天痛蝕9千萬",
-        "url": "https://inews.hket.com/article/4157448/?r=worldcup2026",
+        "title": "【世界盃2026】一文看清世界盃賽程時間表",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜阿根廷球王美斯今晚撼埃及 奧海城、apm、MCP 新都城中心等播足全部104場",
-        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "title": "C朗淚別世盃 「已奉獻一切」",
+        "url": "https://paper.hket.com/article/4157550/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜C朗飲恨告別世界盃  絕版球衣香港有得睇",
-        "url": "https://topick.hket.com/article/4157057/?r=worldcup2026",
+        "title": "特「成功爭取」領紅毋須停賽 美國仍大敗",
+        "url": "https://paper.hket.com/article/4157549/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/07/08",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "C朗淚別世盃 「已奉獻一切」",
+        "articletime": "2026/07/08",
+        "articleurl": "https://paper.hket.com/article/4157550/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4157550/HKET_20260708_A15_08HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "特「成功爭取」領紅毋須停賽 美國仍大敗",
+        "articletime": "2026/07/08",
+        "articleurl": "https://paper.hket.com/article/4157549/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4157549/HKET_20260708_A15_08HH004__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】Polymarket大戶押重注 10天痛蝕9千萬",
         "articletime": "2026/07/07",
@@ -33,12 +51,6 @@ var data = [
         "articletime": "2026/07/07",
         "articleurl": "https://topick.hket.com/article/4157057/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4157057/c1ca1df5-e553-45da-8a3a-d7152a8ca088_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/07/07",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "阿根廷撼埃及 美斯沙拿大鬥法",
@@ -543,17 +555,5 @@ var data = [
         "articletime": "2026/06/15",
         "articleurl": "https://inews.hket.com/article/4146407/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146407/2026-06-14T172706Z_1553660552_UP1EM6E1CH5LW_RTRMADP_5_SOCCER-WORLDCUP-GER-CUW_1_600.JPG"
-    },
-    {
-        "articletitle": "西班牙超班 勢破世盃新丁佛得角",
-        "articletime": "2026/06/15",
-        "articleurl": "https://paper.hket.com/article/4146347/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146347/HKET_20260615_A14_15HH001__480x270.jpg"
-    },
-    {
-        "articletitle": "伊朗「紐」盡六壬 冀美國場上揚威",
-        "articletime": "2026/06/15",
-        "articleurl": "https://paper.hket.com/article/4146346/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146346/HKET_20260615_A14_15HH004__480x270.jpg"
     }
 ];

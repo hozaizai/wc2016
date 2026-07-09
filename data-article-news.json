@@ -1,21 +1,45 @@
 var focusData = [
     {
-        "title": "【世界盃2026】美國葡萄牙相繼出局 八強賽票價暴跌近6成",
-        "url": "https://inews.hket.com/article/4158034/?r=worldcup2026",
+        "title": "世界盃2026｜會德豐黃光耀支持法國隊  前線狀態大勇勢再奪金盃",
+        "url": "https://ps.hket.com/article/4145923/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜長實郭子威一路睇好法國封王  列強各有缺點  高盧雄雞最對板",
-        "url": "https://ps.hket.com/article/4143782/?r=worldcup2026",
+        "title": "世界盃2026｜法國今晚戰非洲之王摩洛哥  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "title": "法國奢華中前場 衝擊雄獅防綫",
+        "url": "https://paper.hket.com/article/4158190/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜會德豐黃光耀支持法國隊  前線狀態大勇勢再奪金盃",
+        "articletime": "2026/07/09",
+        "articleurl": "https://ps.hket.com/article/4145923/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145923/090726_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜法國今晚戰非洲之王摩洛哥  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/09",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
+    {
+        "articletitle": "法國奢華中前場 衝擊雄獅防綫",
+        "articletime": "2026/07/09",
+        "articleurl": "https://paper.hket.com/article/4158190/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158190/HKET_20260709_A20_09HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "與荷密切銳意改革 摩軍力躍世界一綫",
+        "articletime": "2026/07/09",
+        "articleurl": "https://paper.hket.com/article/4158189/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158189/HKET_20260709_A20_09HH003__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】美國葡萄牙相繼出局 八強賽票價暴跌近6成",
         "articletime": "2026/07/08",
@@ -51,12 +75,6 @@ var data = [
         "articletime": "2026/07/07",
         "articleurl": "https://inews.hket.com/article/4157448/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4157448/0707_market_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜阿根廷球王美斯今晚撼埃及 奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/07",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     },
     {
         "articletitle": "世界盃2026｜C朗飲恨告別世界盃  絕版球衣香港有得睇",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/16",
         "articleurl": "https://paper.hket.com/article/4147029/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147029/HKET_20260616_A11_16HH001__480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜可口可樂10款限定版精品上架　設GOAL聲打氣站/免費換匙扣零食碗",
-        "articletime": "2026/06/15",
-        "articleurl": "https://topick.hket.com/article/4146512/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146512/ScreenShot2026-06-13at10617AM_1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】瑞典5：1大炒突尼西亞 科特迪瓦小勝1球",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146717/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146717/2026-06-15T023338Z_1797863049_UP1EM6F0741UN_RTRMADP_5_SOCCER-WORLDCUP-SWE-TUN_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】高盛5萬次模型模擬後更新　西班牙24.7%奪冠率居首　東道主美國成最大黑馬",
-        "articletime": "2026/06/15",
-        "articleurl": "https://inews.hket.com/article/4146594/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146594/150626_169_iet_patrick_gs_600.jpg"
     }
 ];

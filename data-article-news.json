@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "世界盃2026｜新地雷霆支持英格蘭   陣容近年最強勢再度捧盃",
+        "url": "https://ps.hket.com/article/4143104/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "世界盃2026｜西班牙今晚戰比利時  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "狂牛銅牆鐵壁 火併紅魔稍秤先",
         "url": "https://paper.hket.com/article/4158872/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "新星崛起輔助 「黃金一代」盼登頂",
-        "url": "https://paper.hket.com/article/4158871/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜新地雷霆支持英格蘭   陣容近年最強勢再度捧盃",
+        "articletime": "2026/07/10",
+        "articleurl": "https://ps.hket.com/article/4143104/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143104/100726_169_iet_Dominic__600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜西班牙今晚戰比利時  奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/10",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
     {
         "articletitle": "狂牛銅牆鐵壁 火併紅魔稍秤先",
         "articletime": "2026/07/10",
@@ -57,12 +69,6 @@ var data = [
         "articletime": "2026/07/09",
         "articleurl": "https://ps.hket.com/article/4145923/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145923/090726_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜法國今晚戰非洲之王摩洛哥  奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/09",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     },
     {
         "articletitle": "法國奢華中前場 衝擊雄獅防綫",
@@ -485,16 +491,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148438/2026-06-17T180831Z_1956437467_UP1EM6H1EE5QG_RTRMADP_5_SOCCER-WORLDCUP-POR-COD_1_600.JPG"
     },
     {
-        "articletitle": "捷克「非」勝不可 南韓勢奏凱「哥」",
-        "articletime": "2026/06/18",
-        "articleurl": "https://paper.hket.com/article/4148395/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148395/HKET_20260618_A19_18HH002__480x270.jpg"
-    },
-    {
         "articletitle": "B組混戰 加拿大卡塔爾爭勝創歷史",
         "articletime": "2026/06/18",
         "articleurl": "https://paper.hket.com/article/4148394/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148394/HKET_20260618_A19_18HH003_A_480x270.jpg"
+    },
+    {
+        "articletitle": "捷克「非」勝不可 南韓勢奏凱「哥」",
+        "articletime": "2026/06/18",
+        "articleurl": "https://paper.hket.com/article/4148395/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148395/HKET_20260618_A19_18HH002__480x270.jpg"
     },
     {
         "articletitle": "【世界盃2026】美斯「大三元」兼破C朗國際賽入球紀錄　葡萄牙對剛果首戰能否助C朗圓夢？",
@@ -549,11 +555,5 @@ var data = [
         "articletime": "2026/06/16",
         "articleurl": "https://topick.hket.com/article/4147433/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147433/cwln20260612014_1024_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】伊朗迫和紐西蘭 當面向恩芬天奴投訴美國不公平對待",
-        "articletime": "2026/06/16",
-        "articleurl": "https://inews.hket.com/article/4147424/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147424/451c6694-566e-4f20-aebf-063b6fd7f77a_1_600.jpg"
     }
 ];

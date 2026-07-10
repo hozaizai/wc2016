@@ -1,26 +1,44 @@
 var focusData = [
     {
-        "title": "【世界盃2026】首辦決賽中場表演 Justin Bieber夥麥當娜、BTS獻唱",
-        "url": "https://inews.hket.com/article/4158746/?r=worldcup2026",
+        "title": "狂牛銅牆鐵壁 火併紅魔稍秤先",
+        "url": "https://paper.hket.com/article/4158872/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026︱8強大戰英格蘭隊在即　挪威隊驚爆「流感危機」領隊證實發燒咳嗽有齊",
-        "url": "https://topick.hket.com/article/4158372/?r=worldcup2026",
+        "title": "新星崛起輔助 「黃金一代」盼登頂",
+        "url": "https://paper.hket.com/article/4158871/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】C朗完成終極謝幕、簽名球衣拍賣升至10萬人民幣　全球足球珍藏品最高記錄是邊件？",
-        "url": "https://inews.hket.com/article/4158107/?r=worldcup2026",
+        "title": "【世界盃2026】一文看清世界盃賽程時間表",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
     {
+        "articletitle": "狂牛銅牆鐵壁 火併紅魔稍秤先",
+        "articletime": "2026/07/10",
+        "articleurl": "https://paper.hket.com/article/4158872/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158872/HKET_20260710_A15_10HH002__480x270.jpg"
+    },
+    {
+        "articletitle": "新星崛起輔助 「黃金一代」盼登頂",
+        "articletime": "2026/07/10",
+        "articleurl": "https://paper.hket.com/article/4158871/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158871/HKET_20260710_A15_10HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
+        "articletime": "2026/07/09",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
         "articletitle": "【世界盃2026】首辦決賽中場表演 Justin Bieber夥麥當娜、BTS獻唱",
         "articletime": "2026/07/09",
         "articleurl": "https://inews.hket.com/article/4158746/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158746/groupphoto_07_1_600.png"
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158746/0709_FIFA_600.jpg"
     },
     {
         "articletitle": "世界盃2026︱8強大戰英格蘭隊在即　挪威隊驚爆「流感危機」領隊證實發燒咳嗽有齊",
@@ -32,7 +50,7 @@ var data = [
         "articletitle": "【世界盃2026】C朗完成終極謝幕、簽名球衣拍賣升至10萬人民幣　全球足球珍藏品最高記錄是邊件？",
         "articletime": "2026/07/09",
         "articleurl": "https://inews.hket.com/article/4158107/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158107/AFP20260707_2284946233_1_600.jpg"
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4158107/20260709_Fai_16-9_C_600.jpg"
     },
     {
         "articletitle": "世界盃2026｜會德豐黃光耀支持法國隊  前線狀態大勇勢再奪金盃",
@@ -69,12 +87,6 @@ var data = [
         "articletime": "2026/07/08",
         "articleurl": "https://ps.hket.com/article/4143782/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143782/090626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/07/08",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "C朗淚別世盃 「已奉獻一切」",
@@ -449,16 +461,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148962/4148770_HKJC_gameoutside_adv_1200_600.jpg"
     },
     {
-        "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
-        "articletime": "2026/06/19",
-        "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
-    },
-    {
         "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
         "articletime": "2026/06/19",
         "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
+    },
+    {
+        "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
+        "articletime": "2026/06/19",
+        "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
     },
     {
         "articletitle": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
@@ -543,17 +555,5 @@ var data = [
         "articletime": "2026/06/16",
         "articleurl": "https://inews.hket.com/article/4147424/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147424/451c6694-566e-4f20-aebf-063b6fd7f77a_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】西班牙對佛得角爆大冷迫和收場　Polymarket有帳戶輸近100萬美元",
-        "articletime": "2026/06/16",
-        "articleurl": "https://inews.hket.com/article/4147207/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147207/160626_169_iet_fish_100_v1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】比利時迫和埃及1：1",
-        "articletime": "2026/06/16",
-        "articleurl": "https://inews.hket.com/article/4147080/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147080/2026-06-15T192320Z_533422621_UP1EM6F1HUUFO_RTRMADP_5_SOCCER-WORLDCUP-BEL-EGY_1_600.JPG"
     }
 ];

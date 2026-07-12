@@ -18,7 +18,7 @@ var focusData = [
 var data = [
     {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
-        "articletime": "2026/07/11",
+        "articletime": "2026/07/12",
         "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
@@ -473,16 +473,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148962/4148770_HKJC_gameoutside_adv_1200_600.jpg"
     },
     {
-        "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
-        "articletime": "2026/06/19",
-        "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
-    },
-    {
         "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
         "articletime": "2026/06/19",
         "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
+        "articletime": "2026/06/19",
+        "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
     },
     {
         "articletitle": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",

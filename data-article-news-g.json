@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "英阿各戰120分鐘 4強相遇爭入決賽",
+        "url": "https://paper.hket.com/article/4159749/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "金靴獎白熱化 麥巴比美斯齊領龍頭",
+        "url": "https://paper.hket.com/article/4159748/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "【世界盃2026】一文看清世界盃賽程時間表",
         "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃2026｜夏蘭特神複製爺爺五官全家共用一張臉　出身體育世家餅印父母大有來頭",
-        "url": "https://topick.hket.com/article/4159339/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃2026｜新地雷霆支持英格蘭   陣容近年最強勢再度捧盃",
-        "url": "https://ps.hket.com/article/4143104/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "英阿各戰120分鐘 4強相遇爭入決賽",
+        "articletime": "2026/07/13",
+        "articleurl": "https://paper.hket.com/article/4159749/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4159749/HKET_20260713_A14_13HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "金靴獎白熱化 麥巴比美斯齊領龍頭",
+        "articletime": "2026/07/13",
+        "articleurl": "https://paper.hket.com/article/4159748/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4159748/HKET_20260713_A14_13HH003__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】一文看清世界盃賽程時間表",
         "articletime": "2026/07/12",
@@ -149,16 +161,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156343/RTS2026-07-02T154034Z_1753557091_RC2D5MALJ96P_RTRMADP_5_SOCCER-WORLDCUP-USA-BIH_1_600.JPG"
     },
     {
-        "articletitle": "美國以逸待勞 比利時體力存疑",
-        "articletime": "2026/07/06",
-        "articleurl": "https://paper.hket.com/article/4156307/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156307/HKET_20260706_A15_06HH003__480x270.jpg"
-    },
-    {
         "articletitle": "16強「雙牙對決」 攻力大比拼",
         "articletime": "2026/07/06",
         "articleurl": "https://paper.hket.com/article/4156306/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156306/HKET_20260706_A15_06HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "美國以逸待勞 比利時體力存疑",
+        "articletime": "2026/07/06",
+        "articleurl": "https://paper.hket.com/article/4156307/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156307/HKET_20260706_A15_06HH003__480x270.jpg"
     },
     {
         "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
@@ -543,17 +555,5 @@ var data = [
         "articletime": "2026/06/17",
         "articleurl": "https://paper.hket.com/article/4147716/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147716/HKET_20260617_A15_17HH001_A_480x270.jpg"
-    },
-    {
-        "articletitle": "葡國「黃金中場」 盼助C朗圓世盃夢",
-        "articletime": "2026/06/17",
-        "articleurl": "https://paper.hket.com/article/4147715/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147715/HKET_20260617_A15_17HH002__480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】半場急換走紐尼斯 烏拉圭末段終追和沙特",
-        "articletime": "2026/06/16",
-        "articleurl": "https://inews.hket.com/article/4147624/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147624/2281778648_1_600.jpg"
     }
 ];

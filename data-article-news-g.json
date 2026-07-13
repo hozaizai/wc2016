@@ -1,21 +1,39 @@
 var focusData = [
     {
-        "title": "英阿各戰120分鐘 4強相遇爭入決賽",
-        "url": "https://paper.hket.com/article/4159749/?r=worldcup2026",
+        "title": "校園直擊｜志蓮小學300師生見證阿根廷入世界盃4強　「萬能」鍾志光一齊睇：推動體育精神的最好教材",
+        "url": "https://topick.hket.com/article/4160002/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "金靴獎白熱化 麥巴比美斯齊領龍頭",
-        "url": "https://paper.hket.com/article/4159748/?r=worldcup2026",
+        "title": "【世界盃2026】英媒：FIFA紀委會主席 獨自裁定巴路根暫緩停賽",
+        "url": "https://inews.hket.com/article/4160139/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "title": "【世界盃2026】國際足協FIFA料今屆進帳逾1140億元　擬乘勢研2030年世界盃再擴軍至64隊",
+        "url": "https://inews.hket.com/article/4160041/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "校園直擊｜志蓮小學300師生見證阿根廷入世界盃4強　「萬能」鍾志光一齊睇：推動體育精神的最好教材",
+        "articletime": "2026/07/13",
+        "articleurl": "https://topick.hket.com/article/4160002/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4160002/CUP_thumb_20260713_600.png"
+    },
+    {
+        "articletitle": "【世界盃2026】英媒：FIFA紀委會主席 獨自裁定巴路根暫緩停賽",
+        "articletime": "2026/07/13",
+        "articleurl": "https://inews.hket.com/article/4160139/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4160139/0713_FIFA_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】國際足協FIFA料今屆進帳逾1140億元　擬乘勢研2030年世界盃再擴軍至64隊",
+        "articletime": "2026/07/13",
+        "articleurl": "https://inews.hket.com/article/4160041/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4160041/130726_169_iet_patrick_FIFA_600.jpg"
+    },
     {
         "articletitle": "英阿各戰120分鐘 4強相遇爭入決賽",
         "articletime": "2026/07/13",
@@ -485,16 +503,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148962/4148770_HKJC_gameoutside_adv_1200_600.jpg"
     },
     {
-        "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
-        "articletime": "2026/06/19",
-        "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
-    },
-    {
         "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
         "articletime": "2026/06/19",
         "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
+        "articletime": "2026/06/19",
+        "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
     },
     {
         "articletitle": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/17",
         "articleurl": "https://inews.hket.com/article/4148080/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148080/2281974579_1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026︱41歲C朗世界盃最後一戰！傳奇球星「一日六餐」菜單全公開　連續吃20年體脂維持7%",
-        "articletime": "2026/06/17",
-        "articleurl": "https://topick.hket.com/article/4147902/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147902/WhatsAppImage2026-06-16at52656PM_600.jpeg"
-    },
-    {
-        "articletitle": "【世界盃2026】法國隊「慢熱」贏塞內加爾3：1 麥巴比轟兩球",
-        "articletime": "2026/06/17",
-        "articleurl": "https://inews.hket.com/article/4147757/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147757/afp_b7br8jy_1_600.jpg"
-    },
-    {
-        "articletitle": "首輪壓軸戲碼 哈利簡尼領英軍「克」敵",
-        "articletime": "2026/06/17",
-        "articleurl": "https://paper.hket.com/article/4147716/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4147716/HKET_20260617_A15_17HH001_A_480x270.jpg"
     }
 ];

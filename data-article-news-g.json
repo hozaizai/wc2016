@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "全勝雄雞不敗狂牛 合演冠軍前哨戰",
+        "url": "https://paper.hket.com/article/4160341/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "美斯首戰三獅 延續話題之戰",
+        "url": "https://paper.hket.com/article/4160342/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "校園直擊｜志蓮小學300師生見證阿根廷入世界盃4強　「萬能」鍾志光一齊睇：推動體育精神的最好教材",
         "url": "https://topick.hket.com/article/4160002/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】英媒：FIFA紀委會主席 獨自裁定巴路根暫緩停賽",
-        "url": "https://inews.hket.com/article/4160139/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "【世界盃2026】國際足協FIFA料今屆進帳逾1140億元　擬乘勢研2030年世界盃再擴軍至64隊",
-        "url": "https://inews.hket.com/article/4160041/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "全勝雄雞不敗狂牛 合演冠軍前哨戰",
+        "articletime": "2026/07/14",
+        "articleurl": "https://paper.hket.com/article/4160341/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4160341/HKET_20260714_A12_14HH002__480x270.jpg"
+    },
+    {
+        "articletitle": "美斯首戰三獅 延續話題之戰",
+        "articletime": "2026/07/14",
+        "articleurl": "https://paper.hket.com/article/4160342/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4160342/HKET_20260714_A12_14HH003__480x270.jpg"
+    },
     {
         "articletitle": "校園直擊｜志蓮小學300師生見證阿根廷入世界盃4強　「萬能」鍾志光一齊睇：推動體育精神的最好教材",
         "articletime": "2026/07/13",
@@ -503,16 +515,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148962/4148770_HKJC_gameoutside_adv_1200_600.jpg"
     },
     {
-        "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
-        "articletime": "2026/06/19",
-        "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
-    },
-    {
         "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
         "articletime": "2026/06/19",
         "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
+    },
+    {
+        "articletitle": "摩洛哥實力佔優 蘇格蘭奮守頑抗",
+        "articletime": "2026/06/19",
+        "articleurl": "https://paper.hket.com/article/4149060/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149060/HKET_20260619_A11_19HH003__480x270.jpg"
     },
     {
         "articletitle": "豐澤優惠｜「至Dope教父」Brian豐澤Rap洗版　邱士縉要買「夫妻和諧」洗碗碟機　葉鴻輝貼西班牙奪世界盃",
@@ -537,23 +549,5 @@ var data = [
         "articletime": "2026/06/18",
         "articleurl": "https://paper.hket.com/article/4148394/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148394/HKET_20260618_A19_18HH003_A_480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】美斯「大三元」兼破C朗國際賽入球紀錄　葡萄牙對剛果首戰能否助C朗圓夢？",
-        "articletime": "2026/06/17",
-        "articleurl": "https://inews.hket.com/article/4148358/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148358/FireShotCapture4078-CristianoRonaldoreuters-Google-wwwgooglecom_1_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】佛得角門將人氣爆升 美國務院助母處理簽證",
-        "articletime": "2026/06/17",
-        "articleurl": "https://inews.hket.com/article/4148228/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148228/b82ca686-8764-4bad-9981-b323a5ffb6f2_600.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】阿根廷新陣式 美斯3球淨勝阿爾及利亞",
-        "articletime": "2026/06/17",
-        "articleurl": "https://inews.hket.com/article/4148080/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148080/2281974579_1_600.jpg"
     }
 ];

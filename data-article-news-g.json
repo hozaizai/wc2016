@@ -1,21 +1,57 @@
 var focusData = [
     {
-        "title": "世界盃2026｜世界盃開賽半個月　月入萬七保安沉迷賭波已輸$30萬　急問網民1事引震驚：我可以點算",
-        "url": "https://topick.hket.com/article/4159955/?r=worldcup2026",
+        "title": "【世界盃2026】美斯兩助攻 阿根廷激情絕殺英格蘭入決賽",
+        "url": "https://inews.hket.com/article/4161705/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "「美斯倚賴症」惡化 雄鷹衛冕路「蘭」行",
-        "url": "https://paper.hket.com/article/4160987/?r=worldcup2026",
+        "title": "【世界盃2026】一文看清世界盃賽程時間表 電視免費直播",
+        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "英軍將帥不和？ 隊長：外界圖製造分裂",
-        "url": "https://paper.hket.com/article/4160988/?r=worldcup2026",
+        "title": "小國大打爭氣波 世盃擴軍息爭議",
+        "url": "https://paper.hket.com/article/4161678/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "【世界盃2026】美斯兩助攻 阿根廷激情絕殺英格蘭入決賽",
+        "articletime": "2026/07/16",
+        "articleurl": "https://inews.hket.com/article/4161705/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4161705/2026-07-15T205707Z_1651423799_UP1EM7F1M76GH_RTRMADP_5_SOCCER-WORLDCUP-ENG-ARG_1_600.JPG"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表 電視免費直播",
+        "articletime": "2026/07/16",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "小國大打爭氣波 世盃擴軍息爭議",
+        "articletime": "2026/07/16",
+        "articleurl": "https://paper.hket.com/article/4161678/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4161678/HKET_20260716_A16_16HH001__480x270.jpg"
+    },
+    {
+        "articletitle": "藍武士楓葉軍 下屆看好可「升呢」",
+        "articletime": "2026/07/16",
+        "articleurl": "https://paper.hket.com/article/4161679/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4161679/HKET_20260716_A16_16HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜阿根廷大晚戰英格蘭爭入決賽 奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/15",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜新地雷霆支持英格蘭   陣容近年最強勢再度捧盃",
+        "articletime": "2026/07/15",
+        "articleurl": "https://ps.hket.com/article/4143104/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143104/100726_169_iet_Dominic__600.jpg"
+    },
     {
         "articletitle": "世界盃2026｜世界盃開賽半個月　月入萬七保安沉迷賭波已輸$30萬　急問網民1事引震驚：我可以點算",
         "articletime": "2026/07/15",
@@ -33,12 +69,6 @@ var data = [
         "articletime": "2026/07/15",
         "articleurl": "https://paper.hket.com/article/4160988/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4160988/HKET_20260715_A13_15HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表 電視免費直播",
-        "articletime": "2026/07/14",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "【世界盃2026】挪威凱旋回歸獲英雄式歡迎　夏蘭特肩孭名牌袋、手抱「威士忌浣熊」成焦點",
@@ -63,12 +93,6 @@ var data = [
         "articletime": "2026/07/14",
         "articleurl": "https://ps.hket.com/article/4143782/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143782/090626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜法國今晚戰西班牙爭入決賽 奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/14",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     },
     {
         "articletitle": "全勝雄雞不敗狂牛 合演冠軍前哨戰",
@@ -117,12 +141,6 @@ var data = [
         "articletime": "2026/07/10",
         "articleurl": "https://topick.hket.com/article/4159339/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4159339/ha_thumb_20260710_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜新地雷霆支持英格蘭   陣容近年最強勢再度捧盃",
-        "articletime": "2026/07/10",
-        "articleurl": "https://ps.hket.com/article/4143104/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143104/100726_169_iet_Dominic__600.jpg"
     },
     {
         "articletitle": "狂牛銅牆鐵壁 火併紅魔稍秤先",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/20",
         "articleurl": "https://paper.hket.com/article/4149349/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149349/HKET_20260620_A07_20HH005__480x270.jpg"
-    },
-    {
-        "articletitle": "吳諾弘女友KK｜花劍男神吳諾弘認愛世界盃女郎關珮姿　KK中文教育出身轉型幕前主持獲封女神",
-        "articletime": "2026/06/19",
-        "articleurl": "https://topick.hket.com/article/4149160/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149160/KK_THUMBS_600.png"
-    },
-    {
-        "articletitle": "手遊社媒變非法外圍招客溫床　莊家瞄準青少年　引誘成癮抽身難",
-        "articletime": "2026/06/19",
-        "articleurl": "https://topick.hket.com/article/4148962/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4148962/4148770_HKJC_gameoutside_adv_1200_600.jpg"
-    },
-    {
-        "articletitle": "美國主動出擊 欲擒袋鼠提早出綫",
-        "articletime": "2026/06/19",
-        "articleurl": "https://paper.hket.com/article/4149059/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149059/HKET_20260619_A11_01_a_480x270.jpg"
     }
 ];

@@ -1,21 +1,39 @@
 var focusData = [
     {
-        "title": "【世界盃2026】美斯兩助攻 阿根廷激情絕殺英格蘭入決賽",
-        "url": "https://inews.hket.com/article/4161705/?r=worldcup2026",
+        "title": "世界盃2026｜阿根廷對西班牙商場全程直播   美斯抱BB耶馬洗澡片翻hit",
+        "url": "https://topick.hket.com/article/4162449/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "【世界盃2026】一文看清世界盃賽程時間表 電視免費直播",
-        "url": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "title": "名將完成「最後一舞」 憾別世盃征途",
+        "url": "https://paper.hket.com/article/4162294/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "小國大打爭氣波 世盃擴軍息爭議",
-        "url": "https://paper.hket.com/article/4161678/?r=worldcup2026",
+        "title": "季軍戰入球「騷」 利麥巴比爭金靴",
+        "url": "https://paper.hket.com/article/4162293/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜阿根廷對西班牙商場全程直播   美斯抱BB耶馬洗澡片翻hit",
+        "articletime": "2026/07/17",
+        "articleurl": "https://topick.hket.com/article/4162449/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162449/6_1_600.jpg"
+    },
+    {
+        "articletitle": "名將完成「最後一舞」 憾別世盃征途",
+        "articletime": "2026/07/17",
+        "articleurl": "https://paper.hket.com/article/4162294/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162294/HKET_20260717_A14_17HH002__480x270.jpg"
+    },
+    {
+        "articletitle": "季軍戰入球「騷」 利麥巴比爭金靴",
+        "articletime": "2026/07/17",
+        "articleurl": "https://paper.hket.com/article/4162293/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162293/HKET_20260717_A14_17HH004__480x270.jpg"
+    },
     {
         "articletitle": "【世界盃2026】美斯兩助攻 阿根廷激情絕殺英格蘭入決賽",
         "articletime": "2026/07/16",
@@ -537,23 +555,5 @@ var data = [
         "articletime": "2026/06/20",
         "articleurl": "https://inews.hket.com/article/4149400/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149400/026-06-20145530_1_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】美國兩連勝 2：0贏澳洲",
-        "articletime": "2026/06/20",
-        "articleurl": "https://inews.hket.com/article/4149371/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149371/2282404139_1_600.jpg"
-    },
-    {
-        "articletitle": "德軍硬撼非洲象 迎真正考驗",
-        "articletime": "2026/06/20",
-        "articleurl": "https://paper.hket.com/article/4149350/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149350/20HH003_A_480x270.jpg"
-    },
-    {
-        "articletitle": "「狂牛兵團」首戰失利 對沙特不手軟",
-        "articletime": "2026/06/20",
-        "articleurl": "https://paper.hket.com/article/4149349/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149349/HKET_20260620_A07_20HH005__480x270.jpg"
     }
 ];

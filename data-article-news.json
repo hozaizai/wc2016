@@ -1,21 +1,45 @@
 var focusData = [
     {
-        "title": "世界盃決賽2026｜美斯最後一舞迎戰親手抱過的嬰兒　重溫19年前幫耶馬BB膠盆沖涼舊照",
-        "url": "https://topick.hket.com/article/4162554/?r=worldcup2026",
+        "title": "世界盃2026｜西班牙耶馬斥近億購Shakira舊居 年僅19歲已晉身業主行列",
+        "url": "https://ps.hket.com/article/4162856/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜阿根廷對西班牙商場全程直播   美斯抱BB耶馬洗澡片翻hit",
-        "url": "https://topick.hket.com/article/4162449/?r=worldcup2026",
+        "title": "世界盃2026｜長實郭子威睇好西班牙封王  阿根廷單靠美斯難以匹敵",
+        "url": "https://ps.hket.com/article/4143782/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "名將完成「最後一舞」 憾別世盃征途",
-        "url": "https://paper.hket.com/article/4162294/?r=worldcup2026",
+        "title": "球王再遇金童 決戰世盃之巔",
+        "url": "https://paper.hket.com/article/4162960/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜西班牙耶馬斥近億購Shakira舊居 年僅19歲已晉身業主行列",
+        "articletime": "2026/07/18",
+        "articleurl": "https://ps.hket.com/article/4162856/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162856/170726_169_iet_Wan_Shakira_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜長實郭子威睇好西班牙封王  阿根廷單靠美斯難以匹敵",
+        "articletime": "2026/07/18",
+        "articleurl": "https://ps.hket.com/article/4143782/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4140000/4143782/170726_169_iet_YAN__600.jpg"
+    },
+    {
+        "articletitle": "球王再遇金童 決戰世盃之巔",
+        "articletime": "2026/07/18",
+        "articleurl": "https://paper.hket.com/article/4162960/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162960/HKET_20260718_A09_18HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "季軍戰非雞肋 法英鋒將爭士哥",
+        "articletime": "2026/07/18",
+        "articleurl": "https://paper.hket.com/article/4162961/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162961/HKET_20260718_A09_02_a_480x270.jpg"
+    },
     {
         "articletitle": "世界盃決賽2026｜美斯最後一舞迎戰親手抱過的嬰兒　重溫19年前幫耶馬BB膠盆沖涼舊照",
         "articletime": "2026/07/17",
@@ -63,12 +87,6 @@ var data = [
         "articletime": "2026/07/16",
         "articleurl": "https://paper.hket.com/article/4161679/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4161679/HKET_20260716_A16_16HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜阿根廷大晚戰英格蘭爭入決賽 奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/15",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
     },
     {
         "articletitle": "世界盃2026｜新地雷霆支持英格蘭   陣容近年最強勢再度捧盃",
@@ -519,29 +537,5 @@ var data = [
         "articletime": "2026/06/22",
         "articleurl": "https://topick.hket.com/article/4150111/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150111/ballv2_thumb_20260622_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】德球迷發帖分享美加之旅 變網紅獲邀訪白宮",
-        "articletime": "2026/06/22",
-        "articleurl": "https://inews.hket.com/article/4150117/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150117/0622_Cup_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026︱佛教志蓮小學新校長搞凌晨世界盃之夜　前校長辭職戰《中年好聲音4》追夢兩任校長皆破格",
-        "articletime": "2026/06/22",
-        "articleurl": "https://topick.hket.com/article/4149773/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149773/worldcup_thumb_20260622_600.png"
-    },
-    {
-        "articletitle": "美斯有力再數糊 獨佔世盃「士哥王」",
-        "articletime": "2026/06/22",
-        "articleurl": "https://paper.hket.com/article/4149527/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149527/HKET_20260622_A14_22HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "麥巴比出「法」寶 求挫伊拉克",
-        "articletime": "2026/06/22",
-        "articleurl": "https://paper.hket.com/article/4149528/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149528/HKET_20260622_A14_02_a_480x270.jpg"
     }
 ];

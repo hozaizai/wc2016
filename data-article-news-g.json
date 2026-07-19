@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "世界盃2026｜阿根廷對西班牙決戰催旺生意 　餐飲業料可進帳5億元 　酒樓VIP位幾乎訂滿",
+        "url": "https://topick.hket.com/article/4163063/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "世界盃2026｜恒地韓家輝支持西班牙兩度封王  天氣熱有利南歐球隊發揮",
+        "url": "https://ps.hket.com/article/4145078/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "世界盃2026｜美斯突破「約拿情結」奪世界盃冠軍　能否再次創造奇蹟　醫生剖析關鍵因素",
         "url": "https://topick.hket.com/article/4163037/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃2026｜阿根廷戰西班牙爭衛冕 奧海城、apm、MCP 新都城中心等播足全部104場",
-        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃2026｜球王美斯幫耶馬BB沖涼舊照廣傳   熱愛買「磚頭」 名下豪宅遍佈世界",
-        "url": "https://ps.hket.com/article/3704373/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜阿根廷對西班牙決戰催旺生意 　餐飲業料可進帳5億元 　酒樓VIP位幾乎訂滿",
+        "articletime": "2026/07/19",
+        "articleurl": "https://topick.hket.com/article/4163063/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163063/4e531821-cb55-421b-9373-1d51b2789ad2_1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜恒地韓家輝支持西班牙兩度封王  天氣熱有利南歐球隊發揮",
+        "articletime": "2026/07/19",
+        "articleurl": "https://ps.hket.com/article/4145078/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145078/110626_169_iet_fish__v1_600.jpg"
+    },
     {
         "articletitle": "世界盃2026｜美斯突破「約拿情結」奪世界盃冠軍　能否再次創造奇蹟　醫生剖析關鍵因素",
         "articletime": "2026/07/19",
@@ -453,11 +465,5 @@ var data = [
         "articletime": "2026/06/26",
         "articleurl": "https://inews.hket.com/article/4152716/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152716/0626_canada_600.jpg"
-    },
-    {
-        "articletitle": "外圍莊家世盃期間新招盡出誘客　市民保持高度警惕　一時貪念悔終生",
-        "articletime": "2026/06/26",
-        "articleurl": "https://topick.hket.com/article/4152310/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152310/4152259_HKJC_gameoutside_adv_1200_600.jpg"
     }
 ];

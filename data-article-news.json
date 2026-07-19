@@ -1,21 +1,45 @@
 var focusData = [
     {
-        "title": "世界盃2026｜西班牙耶馬斥近億購Shakira舊居 年僅19歲已晉身業主行列",
-        "url": "https://ps.hket.com/article/4162856/?r=worldcup2026",
+        "title": "世界盃2026｜美斯突破「約拿情結」奪世界盃冠軍　能否再次創造奇蹟　醫生剖析關鍵因素",
+        "url": "https://topick.hket.com/article/4163037/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜長實郭子威睇好西班牙封王  阿根廷單靠美斯難以匹敵",
-        "url": "https://ps.hket.com/article/4143782/?r=worldcup2026",
+        "title": "世界盃2026｜阿根廷戰西班牙爭衛冕 奧海城、apm、MCP 新都城中心等播足全部104場",
+        "url": "https://ps.hket.com/article/4145330/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "球王再遇金童 決戰世盃之巔",
-        "url": "https://paper.hket.com/article/4162960/?r=worldcup2026",
+        "title": "世界盃2026｜球王美斯幫耶馬BB沖涼舊照廣傳   熱愛買「磚頭」 名下豪宅遍佈世界",
+        "url": "https://ps.hket.com/article/3704373/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜美斯突破「約拿情結」奪世界盃冠軍　能否再次創造奇蹟　醫生剖析關鍵因素",
+        "articletime": "2026/07/19",
+        "articleurl": "https://topick.hket.com/article/4163037/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163037/1001_1_600.jpeg"
+    },
+    {
+        "articletitle": "世界盃2026｜阿根廷戰西班牙爭衛冕 奧海城、apm、MCP 新都城中心等播足全部104場",
+        "articletime": "2026/07/19",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜球王美斯幫耶馬BB沖涼舊照廣傳   熱愛買「磚頭」 名下豪宅遍佈世界",
+        "articletime": "2026/07/19",
+        "articleurl": "https://ps.hket.com/article/3704373/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/3700000/3704373/170726_169_iet_Dominic_BB_600.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表 電視免費直播",
+        "articletime": "2026/07/19",
+        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
+    },
     {
         "articletitle": "世界盃2026｜西班牙耶馬斥近億購Shakira舊居 年僅19歲已晉身業主行列",
         "articletime": "2026/07/18",
@@ -69,12 +93,6 @@ var data = [
         "articletime": "2026/07/16",
         "articleurl": "https://inews.hket.com/article/4161705/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4161705/2026-07-15T205707Z_1651423799_UP1EM7F1M76GH_RTRMADP_5_SOCCER-WORLDCUP-ENG-ARG_1_600.JPG"
-    },
-    {
-        "articletitle": "【世界盃2026】一文看清世界盃賽程時間表 電視免費直播",
-        "articletime": "2026/07/16",
-        "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
     },
     {
         "articletitle": "小國大打爭氣波 世盃擴軍息爭議",
@@ -441,101 +459,5 @@ var data = [
         "articletime": "2026/06/26",
         "articleurl": "https://topick.hket.com/article/4152310/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152310/4152259_HKJC_gameoutside_adv_1200_600.jpg"
-    },
-    {
-        "articletitle": "夏蘭特麥巴比 神射手爭「威」鬥「法」",
-        "articletime": "2026/06/26",
-        "articleurl": "https://paper.hket.com/article/4152108/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152108/HKET_20260626_A17_26HH002_A_480x270.jpg"
-    },
-    {
-        "articletitle": "「歐洲紅魔」兩連和 主力歸隊誓取勝",
-        "articletime": "2026/06/26",
-        "articleurl": "https://paper.hket.com/article/4152107/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152107/HKET_20260626_A17_26HH003_A_480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜新都城中心周日辦打氣派對 齊撐阿根廷兼免費嚐阿根廷特產",
-        "articletime": "2026/06/25",
-        "articleurl": "https://ps.hket.com/article/4133258/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4133258/MCP_11_1_600.jpg"
-    },
-    {
-        "articletitle": "庫拉索戰非洲象 盼取勝3度創歷史",
-        "articletime": "2026/06/25",
-        "articleurl": "https://paper.hket.com/article/4151408/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151408/HKET_20260625_A16_25HH002_A_480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃優惠｜惠康免費送$80零食福袋　1招捧走卡樂B薯片/合味道杯麵/維他檸檬茶",
-        "articletime": "2026/06/24",
-        "articleurl": "https://topick.hket.com/article/4151088/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151088/wellcome_thumb_20260624_600.png"
-    },
-    {
-        "articletitle": "世界盃2026︱佛教志蓮小學原定凌晨返校睇世界盃　校方急變陣改辦「同樂日」朝早睇8強",
-        "articletime": "2026/06/24",
-        "articleurl": "https://topick.hket.com/article/4151112/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151112/sch_thumb_20260624_600.png"
-    },
-    {
-        "articletitle": "世界盃2026︱美斯再創世盃入球紀錄太太安東莉娜帶3子撐場　仔仔繼承衣缽齊集國際邁亞密梯隊",
-        "articletime": "2026/06/24",
-        "articleurl": "https://topick.hket.com/article/4151081/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151081/messi_thumb_20260624_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜C朗為葡萄牙建功  天價腕錶再受關注",
-        "articletime": "2026/06/24",
-        "articleurl": "https://topick.hket.com/article/4151015/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151015/53_1_600.png"
-    },
-    {
-        "articletitle": "力保晉級資格 太極虎「非」勝不可",
-        "articletime": "2026/06/24",
-        "articleurl": "https://paper.hket.com/article/4150821/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150821/HKET_20260624_A13_24HH002_A_480x270.jpg"
-    },
-    {
-        "articletitle": "蘇格蘭勢泊大「巴」 求和出綫創歷史",
-        "articletime": "2026/06/24",
-        "articleurl": "https://paper.hket.com/article/4150822/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150822/HKET_20260624_A13_24HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜「最強黑馬」佛得角靠Linkedln招人才　原來C朗都有血統　西非小國人口僅香港1/14",
-        "articletime": "2026/06/23",
-        "articleurl": "https://topick.hket.com/article/4149909/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149909/ballball_thumb_20260623_600.png"
-    },
-    {
-        "articletitle": "【世界盃2026】美斯完場前表演魔術 扭過龍門、射穿4後衛 阿根廷贏兩粒",
-        "articletime": "2026/06/23",
-        "articleurl": "https://inews.hket.com/article/4150249/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150249/2026-06-22T190629Z_2041530520_UP1EM6M1H2RNI_RTRMADP_5_SOCCER-WORLDCUP-ARG-AUT_1_600.JPG"
-    },
-    {
-        "articletitle": "葡軍上下撑C朗 「克」敵不容再失",
-        "articletime": "2026/06/23",
-        "articleurl": "https://paper.hket.com/article/4150205/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150205/HKET_20260623_A11_23HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "狀態大勇往績「加」持 三獅勢再下一城",
-        "articletime": "2026/06/23",
-        "articleurl": "https://paper.hket.com/article/4150206/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150206/HKET_20260623_A11_23HH002__480x270.jpg"
-    },
-    {
-        "articletitle": "【世界盃2026】比利時打少1人 0：0賽和伊朗",
-        "articletime": "2026/06/22",
-        "articleurl": "https://inews.hket.com/article/4150138/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150138/65b782f6-d16b-4e22-bb7f-2e649a2c4547_1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜日本隊「顏值天花板」中村敬斗爆紅　擁1.8米身高撞樣謝霆鋒大仔Lucas",
-        "articletime": "2026/06/22",
-        "articleurl": "https://topick.hket.com/article/4150111/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150111/ballv2_thumb_20260622_600.png"
     }
 ];

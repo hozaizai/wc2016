@@ -1,26 +1,56 @@
 var focusData = [
     {
-        "title": "世界盃2026｜阿根廷對西班牙決戰催旺生意 　餐飲業料可進帳5億元 　酒樓VIP位幾乎訂滿",
-        "url": "https://topick.hket.com/article/4163063/?r=worldcup2026",
+        "title": "世界盃2026｜49歲天后Shakira凍齡熱舞掀熱話 西班牙耶馬曾近$1億買其舊居",
+        "url": "https://ps.hket.com/article/4162856/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜恒地韓家輝支持西班牙兩度封王  天氣熱有利南歐球隊發揮",
-        "url": "https://ps.hket.com/article/4145078/?r=worldcup2026",
+        "title": "世界盃2026｜商場通宵直播決賽　過千球迷捧場帶動營業額雙位數升幅　羅淑佩：多動腦筋有商機",
+        "url": "https://topick.hket.com/article/4163477/?r=worldcup2026",
         "tag": "焦點"
     },
     {
-        "title": "世界盃2026｜美斯突破「約拿情結」奪世界盃冠軍　能否再次創造奇蹟　醫生剖析關鍵因素",
-        "url": "https://topick.hket.com/article/4163037/?r=worldcup2026",
+        "title": "世界盃2026｜西班牙19歲耶馬擁多個品牌代言  網紅女友人氣急升",
+        "url": "https://topick.hket.com/article/4163396/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
     {
+        "articletitle": "世界盃2026｜49歲天后Shakira凍齡熱舞掀熱話 西班牙耶馬曾近$1億買其舊居",
+        "articletime": "2026/07/20",
+        "articleurl": "https://ps.hket.com/article/4162856/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162856/200726_169_iet_fish_Shakira_v1_600.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜商場通宵直播決賽　過千球迷捧場帶動營業額雙位數升幅　羅淑佩：多動腦筋有商機",
+        "articletime": "2026/07/20",
+        "articleurl": "https://topick.hket.com/article/4163477/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163477/WhatsAppImage2026-07-20at64001AM1_1_600.jpeg"
+    },
+    {
+        "articletitle": "世界盃2026｜西班牙19歲耶馬擁多個品牌代言  網紅女友人氣急升",
+        "articletime": "2026/07/20",
+        "articleurl": "https://topick.hket.com/article/4163396/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163396/HKETthumb_master__1_600.png"
+    },
+    {
+        "articletitle": "世界盃2026｜西班牙加時1:0贏阿根廷 球迷迫爆商場齊睇波 帶動商場人財兩旺",
+        "articletime": "2026/07/20",
+        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/200726_169_iet_fish__v1_600.jpg"
+    },
+    {
+        "articletitle": "世盃效應 餐飲業料生意進帳5億",
+        "articletime": "2026/07/20",
+        "articleurl": "https://paper.hket.com/article/4163194/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163194/HKET_20260720_A04_20AC005__480x270.jpg"
+    },
+    {
         "articletitle": "世界盃2026｜阿根廷對西班牙決戰催旺生意 　餐飲業料可進帳5億元 　酒樓VIP位幾乎訂滿",
         "articletime": "2026/07/19",
         "articleurl": "https://topick.hket.com/article/4163063/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163063/4e531821-cb55-421b-9373-1d51b2789ad2_1_600.jpg"
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163063/WORLDCUP20260719_THUMB__600.png"
     },
     {
         "articletitle": "世界盃2026｜恒地韓家輝支持西班牙兩度封王  天氣熱有利南歐球隊發揮",
@@ -35,12 +65,6 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163037/1001_1_600.jpeg"
     },
     {
-        "articletitle": "世界盃2026｜阿根廷戰西班牙爭衛冕 奧海城、apm、MCP 新都城中心等播足全部104場",
-        "articletime": "2026/07/19",
-        "articleurl": "https://ps.hket.com/article/4145330/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4145330/120626_169_iet_Wan__600.jpg"
-    },
-    {
         "articletitle": "世界盃2026｜球王美斯幫耶馬BB沖涼舊照廣傳   熱愛買「磚頭」 名下豪宅遍佈世界",
         "articletime": "2026/07/19",
         "articleurl": "https://ps.hket.com/article/3704373/?r=worldcup2026",
@@ -51,12 +75,6 @@ var data = [
         "articletime": "2026/07/19",
         "articleurl": "https://inews.hket.com/article/4146217/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4146217/130626_169_iet_fish__v1_600.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜西班牙耶馬斥近億購Shakira舊居 年僅19歲已晉身業主行列",
-        "articletime": "2026/07/18",
-        "articleurl": "https://ps.hket.com/article/4162856/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4162856/170726_169_iet_Wan_Shakira_600.jpg"
     },
     {
         "articletitle": "世界盃2026｜長實郭子威睇好西班牙封王  阿根廷單靠美斯難以匹敵",
@@ -465,5 +483,77 @@ var data = [
         "articletime": "2026/06/26",
         "articleurl": "https://inews.hket.com/article/4152716/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152716/0626_canada_600.jpg"
+    },
+    {
+        "articletitle": "外圍莊家世盃期間新招盡出誘客　市民保持高度警惕　一時貪念悔終生",
+        "articletime": "2026/06/26",
+        "articleurl": "https://topick.hket.com/article/4152310/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152310/4152259_HKJC_gameoutside_adv_1200_600.jpg"
+    },
+    {
+        "articletitle": "夏蘭特麥巴比 神射手爭「威」鬥「法」",
+        "articletime": "2026/06/26",
+        "articleurl": "https://paper.hket.com/article/4152108/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152108/HKET_20260626_A17_26HH002_A_480x270.jpg"
+    },
+    {
+        "articletitle": "「歐洲紅魔」兩連和 主力歸隊誓取勝",
+        "articletime": "2026/06/26",
+        "articleurl": "https://paper.hket.com/article/4152107/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152107/HKET_20260626_A17_26HH003_A_480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜新都城中心周日辦打氣派對 齊撐阿根廷兼免費嚐阿根廷特產",
+        "articletime": "2026/06/25",
+        "articleurl": "https://ps.hket.com/article/4133258/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4130000/4133258/MCP_11_1_600.jpg"
+    },
+    {
+        "articletitle": "庫拉索戰非洲象 盼取勝3度創歷史",
+        "articletime": "2026/06/25",
+        "articleurl": "https://paper.hket.com/article/4151408/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151408/HKET_20260625_A16_25HH002_A_480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃優惠｜惠康免費送$80零食福袋　1招捧走卡樂B薯片/合味道杯麵/維他檸檬茶",
+        "articletime": "2026/06/24",
+        "articleurl": "https://topick.hket.com/article/4151088/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151088/wellcome_thumb_20260624_600.png"
+    },
+    {
+        "articletitle": "世界盃2026︱佛教志蓮小學原定凌晨返校睇世界盃　校方急變陣改辦「同樂日」朝早睇8強",
+        "articletime": "2026/06/24",
+        "articleurl": "https://topick.hket.com/article/4151112/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151112/sch_thumb_20260624_600.png"
+    },
+    {
+        "articletitle": "世界盃2026︱美斯再創世盃入球紀錄太太安東莉娜帶3子撐場　仔仔繼承衣缽齊集國際邁亞密梯隊",
+        "articletime": "2026/06/24",
+        "articleurl": "https://topick.hket.com/article/4151081/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151081/messi_thumb_20260624_600.png"
+    },
+    {
+        "articletitle": "世界盃2026｜C朗為葡萄牙建功  天價腕錶再受關注",
+        "articletime": "2026/06/24",
+        "articleurl": "https://topick.hket.com/article/4151015/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151015/53_1_600.png"
+    },
+    {
+        "articletitle": "力保晉級資格 太極虎「非」勝不可",
+        "articletime": "2026/06/24",
+        "articleurl": "https://paper.hket.com/article/4150821/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150821/HKET_20260624_A13_24HH002_A_480x270.jpg"
+    },
+    {
+        "articletitle": "蘇格蘭勢泊大「巴」 求和出綫創歷史",
+        "articletime": "2026/06/24",
+        "articleurl": "https://paper.hket.com/article/4150822/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150822/HKET_20260624_A13_24HH003__480x270.jpg"
+    },
+    {
+        "articletitle": "世界盃2026｜「最強黑馬」佛得角靠Linkedln招人才　原來C朗都有血統　西非小國人口僅香港1/14",
+        "articletime": "2026/06/23",
+        "articleurl": "https://topick.hket.com/article/4149909/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4145000/4149909/ballball_thumb_20260623_600.png"
     }
 ];

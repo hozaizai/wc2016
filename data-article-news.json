@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
+        "url": "https://ps.hket.com/article/4156276/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "挖掘者︱湯告魯斯現身世界盃閉幕禮　為新片《挖掘者》造勢激罕騷球技",
+        "url": "https://topick.hket.com/article/4163707/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "世界盃2026｜海關起獲市值近1.6億元懷疑冒牌球衣球鞋　4未成年人疑「搵快錢」參與",
         "url": "https://topick.hket.com/article/4163591/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃西班牙奪冠｜耶馬3歲同母異父弟弟打氣爆紅　孝子脫貧斥1.4億買豪宅贈母",
-        "url": "https://topick.hket.com/article/4163451/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃2026｜49歲天后Shakira凍齡熱舞掀熱話 西班牙耶馬曾近$1億買其舊居",
-        "url": "https://ps.hket.com/article/4162856/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
+        "articletime": "2026/07/20",
+        "articleurl": "https://ps.hket.com/article/4156276/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156276/050726_169_iet_Dominic__600.jpg"
+    },
+    {
+        "articletitle": "挖掘者︱湯告魯斯現身世界盃閉幕禮　為新片《挖掘者》造勢激罕騷球技",
+        "articletime": "2026/07/20",
+        "articleurl": "https://topick.hket.com/article/4163707/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4163707/tomCruise_Digger_20260720_thumb_600.png"
+    },
     {
         "articletitle": "世界盃2026｜海關起獲市值近1.6億元懷疑冒牌球衣球鞋　4未成年人疑「搵快錢」參與",
         "articletime": "2026/07/20",
@@ -353,12 +365,6 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156307/HKET_20260706_A15_06HH003__480x270.jpg"
     },
     {
-        "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
-        "articletime": "2026/07/05",
-        "articleurl": "https://ps.hket.com/article/4156276/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156276/050726_169_iet_Dominic__600.jpg"
-    },
-    {
         "articletitle": "哈利簡尼爭士「哥」 冀率三獅闖8強",
         "articletime": "2026/07/04",
         "articleurl": "https://paper.hket.com/article/4156065/?r=worldcup2026",
@@ -473,16 +479,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152865/HKET_20260627_A09_27HH003__480x270.jpg"
     },
     {
-        "articletitle": "世界盃2026美國隊由沙漠弱旅 變綠洲青年之路",
-        "articletime": "2026/06/27",
-        "articleurl": "https://paper.hket.com/article/4152665/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152665/HKET_20260627_C06_27EA001__480x270.jpg"
-    },
-    {
         "articletitle": "C朗天價腕錶再受關注",
         "articletime": "2026/06/27",
         "articleurl": "https://paper.hket.com/article/4152666/?r=worldcup2026",
         "articleimage": "images/default.jpg"
+    },
+    {
+        "articletitle": "世界盃2026美國隊由沙漠弱旅 變綠洲青年之路",
+        "articletime": "2026/06/27",
+        "articleurl": "https://paper.hket.com/article/4152665/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152665/HKET_20260627_C06_27EA001__480x270.jpg"
     },
     {
         "articletitle": "ViuTV 99台免費直播焦點（香港時間）",
@@ -549,11 +555,5 @@ var data = [
         "articletime": "2026/06/24",
         "articleurl": "https://topick.hket.com/article/4151015/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151015/53_1_600.png"
-    },
-    {
-        "articletitle": "力保晉級資格 太極虎「非」勝不可",
-        "articletime": "2026/06/24",
-        "articleurl": "https://paper.hket.com/article/4150821/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4150821/HKET_20260624_A13_24HH002_A_480x270.jpg"
     }
 ];

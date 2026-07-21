@@ -1,5 +1,10 @@
 var focusData = [
     {
+        "title": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
+        "url": "https://ps.hket.com/article/4156276/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "挖掘者︱湯告魯斯現身世界盃閉幕禮　為新片《挖掘者》造勢激罕騷球技",
         "url": "https://topick.hket.com/article/4163707/?r=worldcup2026",
         "tag": "焦點"
@@ -8,14 +13,15 @@ var focusData = [
         "title": "世界盃2026｜海關起獲市值近1.6億元懷疑冒牌球衣球鞋　4未成年人疑「搵快錢」參與",
         "url": "https://topick.hket.com/article/4163591/?r=worldcup2026",
         "tag": "焦點"
-    },
-    {
-        "title": "世界盃西班牙奪冠｜耶馬3歲同母異父弟弟打氣爆紅　孝子脫貧斥1.4億買豪宅贈母",
-        "url": "https://topick.hket.com/article/4163451/?r=worldcup2026",
-        "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
+        "articletime": "2026/07/20",
+        "articleurl": "https://ps.hket.com/article/4156276/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156276/050726_169_iet_Dominic__600.jpg"
+    },
     {
         "articletitle": "挖掘者︱湯告魯斯現身世界盃閉幕禮　為新片《挖掘者》造勢激罕騷球技",
         "articletime": "2026/07/20",
@@ -357,12 +363,6 @@ var data = [
         "articletime": "2026/07/06",
         "articleurl": "https://paper.hket.com/article/4156307/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156307/HKET_20260706_A15_06HH003__480x270.jpg"
-    },
-    {
-        "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
-        "articletime": "2026/07/05",
-        "articleurl": "https://ps.hket.com/article/4156276/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4155000/4156276/050726_169_iet_Dominic__600.jpg"
     },
     {
         "articletitle": "哈利簡尼爭士「哥」 冀率三獅闖8強",

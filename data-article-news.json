@@ -479,16 +479,16 @@ var data = [
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152865/HKET_20260627_A09_27HH003__480x270.jpg"
     },
     {
-        "articletitle": "C朗天價腕錶再受關注",
-        "articletime": "2026/06/27",
-        "articleurl": "https://paper.hket.com/article/4152666/?r=worldcup2026",
-        "articleimage": "images/default.jpg"
-    },
-    {
         "articletitle": "世界盃2026美國隊由沙漠弱旅 變綠洲青年之路",
         "articletime": "2026/06/27",
         "articleurl": "https://paper.hket.com/article/4152665/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4152665/HKET_20260627_C06_27EA001__480x270.jpg"
+    },
+    {
+        "articletitle": "C朗天價腕錶再受關注",
+        "articletime": "2026/06/27",
+        "articleurl": "https://paper.hket.com/article/4152666/?r=worldcup2026",
+        "articleimage": "images/default.jpg"
     },
     {
         "articletitle": "ViuTV 99台免費直播焦點（香港時間）",

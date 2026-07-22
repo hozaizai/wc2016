@@ -1,21 +1,33 @@
 var focusData = [
     {
+        "title": "「狂牛」世盃兩稱王 解構背後源代碼",
+        "url": "https://paper.hket.com/article/4164391/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
+        "title": "【世界盃2026】聯想CEO楊元慶紐約晤佛得角門將禾仙拿　倡生成式AI助力體育賽事：幾秒鐘提供戰術分析",
+        "url": "https://inews.hket.com/article/4164246/?r=worldcup2026",
+        "tag": "焦點"
+    },
+    {
         "title": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
         "url": "https://ps.hket.com/article/4156276/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "挖掘者︱湯告魯斯現身世界盃閉幕禮　為新片《挖掘者》造勢激罕騷球技",
-        "url": "https://topick.hket.com/article/4163707/?r=worldcup2026",
-        "tag": "焦點"
-    },
-    {
-        "title": "世界盃2026｜海關起獲市值近1.6億元懷疑冒牌球衣球鞋　4未成年人疑「搵快錢」參與",
-        "url": "https://topick.hket.com/article/4163591/?r=worldcup2026",
         "tag": "焦點"
     }
 ];
 var data = [
+    {
+        "articletitle": "「狂牛」世盃兩稱王 解構背後源代碼",
+        "articletime": "2026/07/22",
+        "articleurl": "https://paper.hket.com/article/4164391/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4164391/Zhi_xi_qu_shi_480x270.jpg"
+    },
+    {
+        "articletitle": "【世界盃2026】聯想CEO楊元慶紐約晤佛得角門將禾仙拿　倡生成式AI助力體育賽事：幾秒鐘提供戰術分析",
+        "articletime": "2026/07/21",
+        "articleurl": "https://inews.hket.com/article/4164246/?r=worldcup2026",
+        "articleimage": "https://static06.hket.com/res/v3/image/content/4160000/4164246/cns20190323_96861860_1024_1_1_600.jpg"
+    },
     {
         "articletitle": "世界盃2026｜佛得角人口少過沙田創奇跡  島國風光優美「1球」樓價可以住屋仔？",
         "articletime": "2026/07/20",
@@ -543,17 +555,5 @@ var data = [
         "articletime": "2026/06/24",
         "articleurl": "https://topick.hket.com/article/4151112/?r=worldcup2026",
         "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151112/sch_thumb_20260624_600.png"
-    },
-    {
-        "articletitle": "世界盃2026︱美斯再創世盃入球紀錄太太安東莉娜帶3子撐場　仔仔繼承衣缽齊集國際邁亞密梯隊",
-        "articletime": "2026/06/24",
-        "articleurl": "https://topick.hket.com/article/4151081/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151081/messi_thumb_20260624_600.png"
-    },
-    {
-        "articletitle": "世界盃2026｜C朗為葡萄牙建功  天價腕錶再受關注",
-        "articletime": "2026/06/24",
-        "articleurl": "https://topick.hket.com/article/4151015/?r=worldcup2026",
-        "articleimage": "https://static06.hket.com/res/v3/image/content/4150000/4151015/53_1_600.png"
     }
 ];
